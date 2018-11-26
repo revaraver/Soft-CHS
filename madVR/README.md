@@ -1,9 +1,10 @@
-﻿# madVR
-首发于VCB-S
-http://bbs.vcb-s.com/thread-3892-1-1.html
-
-by revar
-
+# madVR
+-
+首发于VCB-S<br>
+http://bbs.vcb-s.com/thread-3892-1-1.html<br>
+<br>
+by revar<br>
+<br>
 该汉化补丁对应madVR目前最新版本V0.92.17<br>
 内有【原文件】，【硬汉化】，【软汉化】三个文件夹<br>
 半完全汉化，保留了部分术语，汉化率高于90%<br>
@@ -33,6 +34,7 @@ by revar
 2.将【原文件】文件夹中的全部文件拷贝至madVR的安装目录下覆盖即可<br>
 <br>
 <br>
+
 附录：文件列表<br>
 --------------------------------------------------------------------------------------------
 文件名称：*\madVR.CHS for V.92.17\硬汉化\madHcCtrl.exe<br>

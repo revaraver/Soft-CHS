@@ -1,4 +1,4 @@
-作者：revar
+﻿作者：revar
 该汉化补丁对应madVR目前最新版本V0.92.17
 内有【原文件】，【硬汉化】，【软汉化】三个文件夹
 半完全汉化，保留了部分术语，汉化率高于90%
@@ -36,7 +36,7 @@ revar
 https://github.com/revaraver/Soft-CHS
 
 首次发布于VCB-S论坛：
-
+http://bbs.vcb-s.com/thread-3892-1-1.html
 
 个人主页：
 https://github.com/revaraver

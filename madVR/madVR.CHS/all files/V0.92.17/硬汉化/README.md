@@ -1,4 +1,4 @@
-﻿#revaraver\Soft-CHS\madVR\madVR.CHS\all files\V0.92.17\硬汉化
+﻿# revaraver\Soft-CHS\madVR\madVR.CHS\all files\V0.92.17\硬汉化
 文件名称：J:\revar\GitHub\Soft-CHS\madVR\madVR.CHS\all files\V0.92.17\硬汉化\madLevelsTweaker.exe
 文件大小：992616 字节
 修改时间：2018年11月26日 23:53:08

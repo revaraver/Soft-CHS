@@ -1,4 +1,4 @@
-﻿#revaraver\Soft-CHS\madVR\madVR.CHS\all files\V0.92.17\原文件
+﻿# revaraver\Soft-CHS\madVR\madVR.CHS\all files\V0.92.17\原文件
 文件名称：revaraver\Soft-CHS\madVR\madVR.CHS\all files\V0.92.17\原文件\madHcCtrl.exe
 文件大小：3222504 字节
 文件版本：1.1.21.0

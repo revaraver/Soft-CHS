@@ -7,8 +7,7 @@ by revar
 该汉化补丁对应madVR目前最新版本V0.92.17<br>
 内有【原文件】，【硬汉化】，【软汉化】三个文件夹<br>
 半完全汉化，保留了部分术语，汉化率高于90%<br>
-如果遇到汉化文本错误或不合理的地方，欢迎大家到我的Github主页（下方作者信息处）<br>
-进行反馈，在那里可以找到我的邮箱<br>
+如果遇到汉化文本错误或不合理的地方，欢迎大家进行反馈<br>
 <br>
 <br>
 直接点此处进行下载madVR.CHS for V.92.17<br>
@@ -19,21 +18,21 @@ by revar
 <br>
 方法一：<br>
 将【软汉化】文件夹中的全部文件拷贝至madVR的安装目录下<br>
-
+<br>
 推荐该方法，没有修改原文件<br>
-
-
+<br>
+<br>
 若方法一没有实现汉化，则使用方法二:<br>
 方法二：<br>
 1.删除madVR目录下对应的三个后缀为【CH】的文件（若有的话）<br>
 2.将【硬汉化】文件夹中的全部文件拷贝至madVR的安装目录下覆盖即可（可自行备份）<br>
-
-
+<br>
+<br>
 恢复英文：<br>
 1.删除madVR目录下对应【软汉化】中的三个后缀为【CH】的文件（若有的话）<br>
 2.将【原文件】文件夹中的全部文件拷贝至madVR的安装目录下覆盖即可<br>
-
-
+<br>
+<br>
 附录：文件列表<br>
 --------------------------------------------------------------------------------------------
 文件名称：*\madVR.CHS for V.92.17\硬汉化\madHcCtrl.exe<br>
@@ -42,14 +41,14 @@ by revar
 MD5     ：0FE4CD26336B9E1BD6413DBE603576D0<br>
 SHA1    ：E2B4A03E1B8C15DAE3FA30DDFB97A89908E46B9A<br>
 CRC32   ：0B54CD9E<br>
-
+<br>
 文件名称：*\madVR.CHS for V.92.17\硬汉化\madLevelsTweaker.exe<br>
 文件大小：992616 字节<br><br>
 修改时间：2018年11月26日 23:53:08<br>
 MD5     ：CF558CF411EBECC0B198CC676235EBE5<br>
 SHA1    ：08D22DA2E4DA70F0537840FAC88BB2AE9FE84DEA<br>
 CRC32   ：BDC00862<br>
-
+<br>
 文件名称：*\madVR.CHS for V.92.17\硬汉化\madTPG.exe<br>
 文件大小：1163488 字节<br>
 修改时间：2018年11月26日 23:51:46<br>
@@ -84,7 +83,7 @@ CRC32   ：DC0670C6<br>
 MD5     ：B841D408448F2A07F308CED1589E7673<br>
 SHA1    ：F5B5095C0ED69D42110DF6D39810D12B1FA32A1E<br>
 CRC32   ：BF8E6360<br>
-
+<br>
 文件名称：*\madVR.CHS for V.92.17\原文件\madLevelsTweaker.exe<br>
 文件大小：993640 字节<br>
 文件版本：1.1.1.0<br>
@@ -92,7 +91,7 @@ CRC32   ：BF8E6360<br>
 MD5     ：03B55F67E6C16B4CE993401DE8AC3E1F<br>
 SHA1    ：4912D5F5466852A86FB416A4DC553D3B0FAAE772<br>
 CRC32   ：09635066<br>
-
+<br>
 文件名称：*\madVR.CHS for V.92.17\原文件\madTPG.exe<br>
 文件大小：1219808 字节<br>
 文件版本：1.0.7.0<br>

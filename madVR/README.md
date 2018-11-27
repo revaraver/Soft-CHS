@@ -15,7 +15,7 @@ by revar<br>
 如果遇到汉化文本错误或不合理的地方，欢迎大家进行反馈<br>
 <br>
 <br>
-[直接点击此处进行下载madVR.CHS for V.92.17](https://github.com/revaraver/Soft-CHS/raw/master/madVR/madVR.CHS/release/V0.92.17/madVR.CHS%20for%20V0.92.17.7z "madVR.CHS for V.92.17")<br>
+[直接点击此处进行下载madVR.CHS for V0.92.17](https://github.com/revaraver/Soft-CHS/raw/master/madVR/madVR.CHS/release/V0.92.17/madVR.CHS%20for%20V0.92.17.7z "madVR.CHS for V.92.17")<br>
 于2018年11月27日 14:59:08更新<br>
 <br>
 <br>

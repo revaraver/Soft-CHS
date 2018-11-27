@@ -42,8 +42,10 @@ by revar<br>
 ### 汉化补丁已更新，于2018年11月27日 14:59:08前安装插件的，可按照上述方法进行完全更新或按下述方法进行简洁更新（需配合往期任一版本汉化补丁），效果相同  
 <br>
 简洁更新方法：<br>
+
 [直接点击此处进行下载更新后的madHcCtrl.CH文件](https://github.com/revaraver/Soft-CHS/raw/master/madVR/madVR.CHS/all%20files/V0.92.17/%E8%BD%AF%E6%B1%89%E5%8C%96/madHcCtrl.CH "madHcCtrl.CH")，并与汉化方法结合使用<br>
 <br>
+
 更新历史
 --
 ##### 第一次更新：

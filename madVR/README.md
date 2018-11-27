@@ -5,6 +5,8 @@
 首发于VCB-S<br>
 http://bbs.vcb-s.com/thread-3892-1-1.html<br>
 <br>
+更新于2018年11月27日 14:59:08<br>
+<br>
 by revar<br>
 <br>
 该汉化补丁对应madVR目前最新版本V0.92.17<br>

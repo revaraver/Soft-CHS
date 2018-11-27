@@ -1,6 +1,6 @@
 # madVR
 
-##版本：1
+## 版本：1
 
 首发于VCB-S<br>
 http://bbs.vcb-s.com/thread-3892-1-1.html<br>

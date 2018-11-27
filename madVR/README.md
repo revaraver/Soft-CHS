@@ -37,48 +37,56 @@ by revar<br>
 
 附录：文件列表<br>
 --
-文件名称：*\madVR.CHS for V.92.17\硬汉化\madHcCtrl.exe<br>
+文件名称：revaraver\Soft-CHS\madVR\madVR.CHS\release\V0.92.17\madVR.CHS for V0.92.17.1.7z
+文件大小：2130391 字节
+修改时间：2018年11月27日 14:36:52
+MD5     ：8FB20C972F21789F7A759A45475B0FA7
+SHA1    ：8022030F193EE7B5C56922E6C412E24CFE76BDE2
+CRC32   ：AB173B93
+
+文件名称：revaraver\Soft-CHS\madVR\madVR.CHS\all files\V0.92.17\madVR.CHS for V.92.17\硬汉化\madHcCtrl.exe<br>
 文件大小：3129320 字节<br>
 修改时间：2018年11月27日 00:14:02<br>
 MD5     ：0FE4CD26336B9E1BD6413DBE603576D0<br>
 SHA1    ：E2B4A03E1B8C15DAE3FA30DDFB97A89908E46B9A<br>
 CRC32   ：0B54CD9E<br>
 <br>
-文件名称：*\madVR.CHS for V.92.17\硬汉化\madLevelsTweaker.exe<br>
+文件名称：revaraver\Soft-CHS\madVR\madVR.CHS\all files\V0.92.17\madVR.CHS for V.92.17\硬汉化\madLevelsTweaker.exe<br>
 文件大小：992616 字节<br><br>
 修改时间：2018年11月26日 23:53:08<br>
 MD5     ：CF558CF411EBECC0B198CC676235EBE5<br>
 SHA1    ：08D22DA2E4DA70F0537840FAC88BB2AE9FE84DEA<br>
 CRC32   ：BDC00862<br>
 <br>
-文件名称：*\madVR.CHS for V.92.17\硬汉化\madTPG.exe<br>
+文件名称：revaraver\Soft-CHS\madVR\madVR.CHS\all files\V0.92.17\madVR.CHS for V.92.17\硬汉化\madTPG.exe<br>
 文件大小：1163488 字节<br>
 修改时间：2018年11月26日 23:51:46<br>
 MD5     ：5C93190F4721B8D968582D97A53989EA<br>
 SHA1    ：6281BE67046CC6253E72C69BEF8B8255AC6DBC36<br>
 CRC32   ：83037F38<br>
 <br>
-文件名称：*\madVR.CHS for V.92.17\软汉化\madHcCtrl.CH<br>
+文件名称：revaraver\Soft-CHS\madVR\madVR.CHS\all files\V0.92.17\madVR.CHS for V.92.17\软汉化\madHcCtrl.CH<br>
 文件大小：579072 字节<br>
 修改时间：2018年11月27日 00:14:02<br>
 MD5     ：07A264C2FCCBD43B0A03438678127DF1<br>
 SHA1    ：BADBA42EBAFDFC6B38F5D28AF891B10FF258C3C0<br>
 CRC32   ：2BF46914<br>
 <br>
-文件名称：*\madVR.CHS for V.92.17\软汉化\madLevelsTweaker.CH<br>
+文件名称：revaraver\Soft-CHS\madVR\madVR.CHS\all files\V0.92.17\madVR.CHS for V.92.17\软汉化\madLevelsTweaker.CH<br>
 文件大小：126464 字节<br>
 修改时间：2018年11月26日 23:53:08<br>
 MD5     ：EDEDABEFE1DC15EBA36FEDFC3C69615D<br>
 SHA1    ：C6680342826B783FBA67C339B4F13F1031876EF7<br>
 CRC32   ：00F66D95<br>
-文件名称：*\madVR.CHS for V.92.17\软汉化\madTPG.CH<br>
-文件大小：76288 字节<br>
-修改时间：2018年11月26日 23:51:46<br>
-MD5     ：84DE5BEC4D0494649CD10EC6C7E507FF<br>
-SHA1    ：792D5EBC19C70781068BB3D38B8FA189306A0FE0<br>
-CRC32   ：DC0670C6<br>
+
+文件名称：revaraver\Soft-CHS\madVR\madVR.CHS\all files\V0.92.17\软汉化\madHcCtrl.CH
+文件大小：666112 字节
+修改时间：2018年11月27日 14:28:36
+MD5     ：EB11F282387CE9EC528E354FE36DD6B7
+SHA1    ：3AE26321420EE98F11576E43285174FBCE8964C4
+CRC32   ：27F5832B
 <br>
-文件名称：*\madVR.CHS for V.92.17\原文件\madHcCtrl.exe<br>
+文件名称：revaraver\Soft-CHS\madVR\madVR.CHS\all files\V0.92.17\madVR.CHS for V.92.17\原文件\madHcCtrl.exe<br>
 文件大小：3222504 字节<br>
 文件版本：1.1.21.0<br>
 修改时间：2018年9月29日 12:37:50<br>
@@ -86,7 +94,7 @@ MD5     ：B841D408448F2A07F308CED1589E7673<br>
 SHA1    ：F5B5095C0ED69D42110DF6D39810D12B1FA32A1E<br>
 CRC32   ：BF8E6360<br>
 <br>
-文件名称：*\madVR.CHS for V.92.17\原文件\madLevelsTweaker.exe<br>
+文件名称：revaraver\Soft-CHS\madVR\madVR.CHS\all files\V0.92.17\madVR.CHS for V.92.17\原文件\madLevelsTweaker.exe<br>
 文件大小：993640 字节<br>
 文件版本：1.1.1.0<br>
 修改时间：2014年4月1日 16:23:54<br>
@@ -94,7 +102,7 @@ MD5     ：03B55F67E6C16B4CE993401DE8AC3E1F<br>
 SHA1    ：4912D5F5466852A86FB416A4DC553D3B0FAAE772<br>
 CRC32   ：09635066<br>
 <br>
-文件名称：*\madVR.CHS for V.92.17\原文件\madTPG.exe<br>
+文件名称：revaraver\Soft-CHS\madVR\madVR.CHS\all files\V0.92.17\madVR.CHS for V.92.17\原文件\madTPG.exe<br>
 文件大小：1219808 字节<br>
 文件版本：1.0.7.0<br>
 修改时间：2017年9月13日 17:27:40<br>

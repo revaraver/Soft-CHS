@@ -1,0 +1,814 @@
+﻿madHcCtrl.exe.Forms.TFADDCUSTOMMODE.Caption	Add custom mode...	添加自定义模式	
+madHcCtrl.exe.Forms.TFADDCUSTOMMODE.Label1.Caption	resolution:	分辨率:	
+madHcCtrl.exe.Forms.TFADDCUSTOMMODE.Label3.Caption	refresh rate:	刷新率:	
+madHcCtrl.exe.Forms.TFADDCUSTOMMODE.AddBtn.Caption	Add	添加	
+madHcCtrl.exe.Forms.TFADDCUSTOMMODE.CancelBtn.Caption	Cancel	取消	
+madHcCtrl.exe.Forms.TFCHECKBOXFORM.MainLabel.Caption	Please choose which settings to create a profile for:	请选择要为以下目的创建配置文件的设置:	
+madHcCtrl.exe.Forms.TFCHECKBOXFORM.Check1.Caption	chroma upscaling	色度增强	
+madHcCtrl.exe.Forms.TFCHECKBOXFORM.Check2.Caption	image doubling	图像加倍	
+madHcCtrl.exe.Forms.TFCHECKBOXFORM.Check3.Caption	image upscaling	图像升级	
+madHcCtrl.exe.Forms.TFCHECKBOXFORM.Check4.Caption	image downscaling	图像缩小	
+madHcCtrl.exe.Forms.TFCHECKBOXFORM.OkBtn.Caption	OK	确定	
+madHcCtrl.exe.Forms.TFCHECKBOXFORM.Button2.Caption	Cancel	取消	
+madHcCtrl.exe.Forms.TFCHECKBOXFORM.Check5.Caption	image downscaling	图像缩小	
+madHcCtrl.exe.Forms.TFCHECKBOXFORM.Check6.Caption	image downscaling	图像缩小	
+madHcCtrl.exe.Forms.TFCHECKBOXFORM.Check7.Caption	image downscaling	图像缩小	
+madHcCtrl.exe.Forms.TFCUSTOMRES.ModesList.Columns[0].Caption	description	描述	
+madHcCtrl.exe.Forms.TFCUSTOMRES.ModesList.Columns[1].Caption	estimated frame drops/repeats	估计帧丢弃/重复	
+madHcCtrl.exe.Forms.TFCUSTOMRES.ModesList.Columns[2].Caption	recommended	推荐的	
+madHcCtrl.exe.Forms.TFCUSTOMRES.TimingPanel.TimingTab.Label1.Caption	horizontal:	水平：	
+madHcCtrl.exe.Forms.TFCUSTOMRES.TimingPanel.TimingTab.Label2.Caption	vertical:	垂直：	
+madHcCtrl.exe.Forms.TFCUSTOMRES.TimingPanel.TimingTab.Label3.Caption	front porch	前肩	
+madHcCtrl.exe.Forms.TFCUSTOMRES.TimingPanel.TimingTab.Label4.Caption	sync width	同步宽度	
+madHcCtrl.exe.Forms.TFCUSTOMRES.TimingPanel.TimingTab.Label5.Caption	back porch	后肩	
+madHcCtrl.exe.Forms.TFCUSTOMRES.TimingPanel.TimingTab.Label6.Caption	blanking	消隐	
+madHcCtrl.exe.Forms.TFCUSTOMRES.TimingPanel.TimingTab.Label7.Caption	visible	可见	
+madHcCtrl.exe.Forms.TFCUSTOMRES.TimingPanel.TimingTab.Label8.Caption	total	总共	
+madHcCtrl.exe.Forms.TFCUSTOMRES.TimingPanel.TimingTab.Label19.Caption	pixels	像素	
+madHcCtrl.exe.Forms.TFCUSTOMRES.TimingPanel.TimingTab.Label20.Caption	pixels	像素	
+madHcCtrl.exe.Forms.TFCUSTOMRES.TimingPanel.TimingTab.Label21.Caption	pixel clock:	像素时钟：	
+madHcCtrl.exe.Forms.TFCUSTOMRES.TimingPanel.TimingTab.Label23.Caption	sync	同步	
+madHcCtrl.exe.Forms.TFCUSTOMRES.TimingPanel.TimingTab.Label24.Caption	results in:	结果是：	
+madHcCtrl.exe.Forms.TFCUSTOMRES.TestBtn.Caption	Test Mode	测试模式	
+madHcCtrl.exe.Forms.TFCUSTOMRES.CancelBtn.Caption	Cancel	取消	
+madHcCtrl.exe.Forms.TFCUSTOMRES.HelpPanel.HelpLabel.Caption	You can view && edit the current timing parameters here, or alternatively try one of the listed standard timings. But it's usually easier to let madVR optimize the timing parameters for you.	您可以在这里查看和编辑当前的计时参数, 也可以尝试列出的标准计时之一。但让 madVR 为你优化计时参数通常会更容易。	
+madHcCtrl.exe.Forms.TFCUSTOMRES.ApplyBtn.Caption	Apply	应用	
+madHcCtrl.exe.Forms.TFIMPORTEELUT.Caption	Import eeColor 3dlut file...	导入eeColor 3dlut文件	
+madHcCtrl.exe.Forms.TFIMPORTEELUT.CancelBtn.Caption	Cancel	取消	
+madHcCtrl.exe.Forms.TFIMPORTEELUT.OkBtn.Caption	Ok	确定	
+madHcCtrl.exe.Forms.TFIMPORTEELUT.Panel1.Label1.Caption	Which primaries / gamut was this eeColor 3dlut created for?	这个 eeColor 3dlut 是为哪些原色/色域创建的？	
+madHcCtrl.exe.Forms.TFIMPORTEELUT.Panel1.Label2.Caption	Please note that the eeColor 3dlut must have been created for *video* levels.	请注意, eeColor 3dlut 必须已在 * 视频 * 层面创建。	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.Caption	madVR settings...	madVR设置	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DevicesTab.Caption	DevicesTab	设备	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DevicesTab.NewDeviceButton.Caption	add new device	添加新设备	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ScreenshotTab.Caption	ScreenshotTab	截图	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ScreenshotTab.Panel9.Screenshot100Radio.Caption	100% view	100% 视图	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ScreenshotTab.Panel9.Screenshot50Radio.Caption	50% view 	50% 视图 	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ScreenshotTab.Panel9.ScreenshotEncodedRadio.Caption	encoded video size	编码的视频大小	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ScreenshotTab.Panel9.Screenshot200Radio.Caption	200% view	200% 视图	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ScreenshotTab.Panel9.Screenshot400Radio.Caption	400% view	400% 视图	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ScreenshotTab.Panel9.Screenshot300Radio.Caption	300% view	300% 视图	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ScreenshotTab.Panel9.Screenshot800Radio.Caption	800% view	800% 视图	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ScreenshotTab.ScreenshotZoomCheck.Caption	create screenshots with a custom zoom factor	使用自定义缩放系数创建屏幕截图	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ScreenshotTab.ScreenshotArtifactCheck.Caption	don't perform artifact removal processing	不执行项目删除处理	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ScreenshotTab.ScreenshotEnhanceCheck.Caption	don't perform image enhancement processing	不执行图像增强处理	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ScreenshotTab.ScreenshotRefineCheck.Caption	don't perform upscaling refinement processing	禁用升级细化处理	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ScreenshotTab.ScreenshotOsdCheck.Caption	don't draw OSD	禁用OSD	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ScreenshotTab.ScreenshotSubtitlesCheck.Caption	don't draw subtitles	不显示字幕	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ScreenshotTab.ScreenshotColorCheck.Caption	don't perform color && gamma processing, calibration etc	不执行颜色、伽玛和校准等处理	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ScreenshotTab.ScreenshotHqScalingCheck.Caption	use high quality scaling algos  -  image upscaling:	使用图像缩放算法：	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ScreenshotTab.ScreenshotImageUpCombo.Text	NGU Standard with some added grain	添加了颗粒的NGU标准化	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ScreenshotTab.ScreenshotImageUpCombo.0	NGU Sharp	NGU 锐化	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ScreenshotTab.ScreenshotImageUpCombo.1	NGU Standard	NGU 标准	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ScreenshotTab.ScreenshotImageUpCombo.2	NGU Anti-Alias	NGU 抗锯齿	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ScreenshotTab.ScreenshotImageUpCombo.3	NGU Sharp with some added grain	添加了颗粒的NGU锐化	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ScreenshotTab.ScreenshotImageUpCombo.4	NGU Standard with some added grain	添加了颗粒的NGU标准化	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ScreenshotTab.ScreenshotImageUpCombo.5	NGU Anti-Alias with some added grain	添加了颗粒的NGU抗锯齿	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ScreenshotTab.ScreenshotShadersCheck.Caption	don't execute custom shaders	禁用自定义着色器	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.HdrTab.HdrTopPanel.HdrPassthroughRadio.Caption	passthrough HDR to display	通过HDR显示	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.HdrTab.HdrTopPanel.HdrToneMapMathRadio.Caption	tone map HDR using pixel shaders	使用像素着色器进行HDR色调映射	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.HdrTab.HdrTopPanel.HdrToneMap3dlutRadio.Caption	tone map HDR using external 3DLUT	使用外部3DLUT进行HDR色调映射	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.HdrTab.HdrTopPanel.HdrAutoRadio.Caption	let madVR decide	让madVR决定	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.HdrTab.HdrMathPanel.Label63.Caption	(doesn't work with DXVA scaling / decoding)	(不适用于硬件加速的缩放/解码)	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.HdrTab.HdrMathPanel.NitsLabel.Caption	target peak nits:	目标峰值/nits:	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.HdrTab.HdrMathPanel.Label104.Caption	tone mapping curve:	色调映射曲线:	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.HdrTab.HdrMathPanel.Label88.Caption	color tweaks for fire && explosions:	火灾爆炸等场景的颜色调整:	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.HdrTab.HdrMathPanel.HdrDiffuseWhiteLabel.Caption	diffuse white:	漫射白:	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.HdrTab.HdrMathPanel.Label85.Caption	highlight recovery strength:	高光恢复速度：	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.HdrTab.HdrMathPanel.Label105.Caption	desaturation control:	饱和度控制:	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.HdrTab.HdrMathPanel.HdrMeasureNitsCheck.Caption	measure each frame's peak luminance	逐帧测试峰值亮度	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.HdrTab.HdrMathPanel.HdrHueShiftCombo.Text	balanced	平衡	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.HdrTab.HdrMathPanel.HdrHueShiftCombo.0	high strength	高强度	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.HdrTab.HdrMathPanel.HdrHueShiftCombo.1	balanced	平衡	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.HdrTab.HdrMathPanel.HdrHueShiftCombo.2	disabled	禁用	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.HdrTab.HdrMathPanel.HdrDetailCombo.Text	none	无	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.HdrTab.HdrMathPanel.HdrDetailCombo.0	none	无	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.HdrTab.HdrMathPanel.HdrDetailCombo.1	low	低	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.HdrTab.HdrMathPanel.HdrDetailCombo.2	medium	中等	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.HdrTab.HdrMathPanel.HdrDetailCombo.3	high	高	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.HdrTab.HdrMathPanel.HdrDetailCombo.4	very high	很高	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.HdrTab.HdrMathPanel.HdrDetailCombo.5	are you nuts!?	你疯了吗！？	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.HdrTab.HdrMathPanel.HdrDesatCombo.Text	100% scaled to 10,000nits  (v0.92.16)	100% 缩放至 10, 000 nits (v0.92.16)	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.HdrTab.HdrMathPanel.HdrDesatCombo.1	10% scaled to 10,000nits	10% 扩大到 10, 000 nits	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.HdrTab.HdrMathPanel.HdrDesatCombo.2	20% scaled to 10,000nits	20% 扩大到 10, 000 nits	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.HdrTab.HdrMathPanel.HdrDesatCombo.3	30% scaled to 10,000nits	30% 扩大到 10, 000 nits	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.HdrTab.HdrMathPanel.HdrDesatCombo.4	40% scaled to 10,000nits	40% 扩大到 10, 000 nits	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.HdrTab.HdrMathPanel.HdrDesatCombo.5	50% scaled to 10,000nits	50％缩放到10,000nits	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.HdrTab.HdrMathPanel.HdrDesatCombo.6	60% scaled to 10,000nits	60％缩放到10,000nits	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.HdrTab.HdrMathPanel.HdrDesatCombo.7	70% scaled to 10,000nits	70％缩放到10,000nits	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.HdrTab.HdrMathPanel.HdrDesatCombo.8	80% scaled to 10,000nits	80％缩放到10,000nits	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.HdrTab.HdrMathPanel.HdrDesatCombo.9	90% scaled to 10,000nits	90％缩放到10,000nits	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.HdrTab.HdrMathPanel.HdrDesatCombo.10	100% scaled to 10,000nits  (v0.92.16)	100% 缩放至 10, 000 nits (v0.92.16)	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.HdrTab.HdrMathPanel.HdrDesatCombo.11	10% scaled to static metadata	10% 缩放为静态元数据	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.HdrTab.HdrMathPanel.HdrDesatCombo.12	20% scaled to static metadata	20% 缩放为静态元数据	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.HdrTab.HdrMathPanel.HdrDesatCombo.13	30% scaled to static metadata	30％扩展到静态元数据	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.HdrTab.HdrMathPanel.HdrDesatCombo.14	40% scaled to static metadata	40% 缩放为静态元数据	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.HdrTab.HdrMathPanel.HdrDesatCombo.15	50% scaled to static metadata	50％扩展到静态元数据	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.HdrTab.HdrMathPanel.HdrDesatCombo.16	60% scaled to static metadata	60% 缩放为静态元数据	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.HdrTab.HdrMathPanel.HdrDesatCombo.17	70% scaled to static metadata	70％扩展到静态元数据	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.HdrTab.HdrMathPanel.HdrDesatCombo.18	80% scaled to static metadata	80% 缩放为静态元数据	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.HdrTab.HdrMathPanel.HdrDesatCombo.19	90% scaled to static metadata	90％扩展到静态元数据	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.HdrTab.HdrMathPanel.HdrDesatCombo.20	100% scaled to static metadata	100% 缩放到静态元数据	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.HdrTab.HdrMathPanel.HdrDesatCombo.21	10% scaled to measured peak	10% 缩放至测量峰值	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.HdrTab.HdrMathPanel.HdrDesatCombo.22	20% scaled to measured peak	20% 扩展到测量的峰值	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.HdrTab.HdrMathPanel.HdrDesatCombo.23	30% scaled to measured peak	30％按比例缩放至测量峰值	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.HdrTab.HdrMathPanel.HdrDesatCombo.24	40% scaled to measured peak	40％按比例缩放至测量峰值	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.HdrTab.HdrMathPanel.HdrDesatCombo.25	50% scaled to measured peak	50％按比例缩放至测量峰值	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.HdrTab.HdrMathPanel.HdrDesatCombo.26	60% scaled to measured peak	60% 可扩展到测量峰值	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.HdrTab.HdrMathPanel.HdrDesatCombo.27	70% scaled to measured peak	70% 可扩展到测量峰值	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.HdrTab.HdrMathPanel.HdrDesatCombo.28	80% scaled to measured peak	80% 扩展到测量的峰值	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.HdrTab.HdrMathPanel.HdrDesatCombo.29	90% scaled to measured peak	90％按比例缩放至测量峰值	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.HdrTab.HdrMathPanel.HdrDesatCombo.30	100% scaled to measured peak	100% 缩放至测量峰值	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.HdrTab.HdrMathPanel.OutputHdrCheck.Caption	output video in HDR format	以HDR格式输出视频	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.HdrTab.Hdr3dlutPanel.MetadataNitsLabel.Caption	peak nits:	目标峰值/nits:	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.HdrTab.Hdr3dlutPanel.MetadataGamutLabel.Caption	gamut:	色域：	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.HdrTab.Hdr3dlutPanel.MetadataLabel.Caption	send the following HDR metadata to the display:	将以下HDR元数据发送到显示器：	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.HdrTab.HdrPassthroughPanel.SendHdrMetadataCheck.Caption	send HDR metadata to the display	将HDR元数据发送到显示器	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ScreenTab.Caption	screen configuration	屏幕配置	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ScreenTab.MaskLeftLabel.Caption	left:	左边：	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ScreenTab.MaskTopLabel.Caption	top:	顶部：	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ScreenTab.MaskRightLabel.Caption	right:	右边：	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ScreenTab.MaskBottomLabel.Caption	bottom:	底部：	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ScreenTab.AnamorphStretchLabel.Caption	stretch factor:	拉伸系数:	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ScreenTab.AnamorphStretchOkLabel.Caption	(ok)	(可以)	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ScreenTab.MaskCheck.Caption	define visible screen area by cropping masked borders	通过裁剪蒙版边框来定义可见屏幕区域	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ScreenTab.AnamorphLensCheck.Caption	anamorphic lens	变形透镜	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ScreenTab.MoveOsdCheck.Caption	move OSD into active video area	将OSD移动到活动视频区域	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ScreenTab.LensMemCheck.Caption	activate lens memory number:	激活镜头存储器编号：	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ZoomControlTab.Caption	zoom control	移动控制	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ZoomControlTab.NoSmallScalingCheck.Caption	disable scaling if image size changes by only:	图像仅大小发生改变时，禁用缩放：	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ZoomControlTab.NoSmallScalingCombo.Text	... 2 lines or less	2行或以下	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ZoomControlTab.NoSmallScalingCombo.0	... 1 line	单行	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ZoomControlTab.NoSmallScalingCombo.1	... 2 lines or less	2行或以下	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ZoomControlTab.NoSmallScalingCombo.2	... 3 lines or less	3行或更少	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ZoomControlTab.NoSmallScalingCombo.3	... 5 lines or less	5行或以下	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ZoomControlTab.NoSmallScalingCombo.4	... 7 lines or less	7行或以下	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ZoomControlTab.NoSmallScalingCombo.5	... 10 lines or less	10行或以下	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ZoomControlTab.NoSmallScalingCombo.6	... 15 lines or less	15行或以下	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ZoomControlTab.NoSmallScalingCombo.7	... 25 lines or less	25行或以下	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ZoomControlTab.NoSmallScalingCombo.8	... 50 lines or less	50行或以下	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ZoomControlTab.CropSmallBarsCheck.Caption	zoom small black bars away	裁剪黑边	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ZoomControlTab.ReduceBigBarsCheck.Caption	if there are big black bars:	如果有大的黑边:	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ZoomControlTab.ReduceBigBarsCombo.Text	... reduce bar size by 25%	将条尺寸缩小25%	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ZoomControlTab.ReduceBigBarsCombo.0	... reduce bar size by 5%	将条尺寸缩小5%	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ZoomControlTab.ReduceBigBarsCombo.1	... reduce bar size by 10%	将条尺寸缩小10%	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ZoomControlTab.ReduceBigBarsCombo.2	... reduce bar size by 15%	将条尺寸缩小15%	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ZoomControlTab.ReduceBigBarsCombo.3	... reduce bar size by 20%	将条尺寸缩小20%	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ZoomControlTab.ReduceBigBarsCombo.4	... reduce bar size by 25%	将条尺寸缩小25%	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ZoomControlTab.ReduceBigBarsCombo.5	... reduce bar size by 30%	将条尺寸缩小30%	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ZoomControlTab.ReduceBigBarsCombo.6	... reduce bar size by 40%	将条尺寸缩小40%	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ZoomControlTab.ReduceBigBarsCombo.7	... reduce bar size by 50%	将条尺寸缩小50%	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ZoomControlTab.ReduceBigBarsCombo.8	... reduce bar size by 75%	将条尺寸缩小75%	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ZoomControlTab.ReduceBigBarsCombo.9	... zoom the bars away completely	将条形图完全缩放	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ZoomControlTab.DetectBarsCheck.Caption	automatically detect hard coded black bars	自动检测原生黑边	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ZoomControlTab.ReportBarsCheck.Caption	notify media player about cropped black bars:	裁剪黑边时通知媒体播放器：	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ZoomControlTab.ReportBarsCombo.Text	... no more than once every 2 sec	每2秒不超过一次	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ZoomControlTab.ReportBarsCombo.0	... immediately after every change	每次变化后	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ZoomControlTab.ReportBarsCombo.1	... no more than once every 2 sec	每2秒不超过一次	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ZoomControlTab.ReportBarsCombo.2	... no more than once every 5 sec	每5秒不超过一次	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ZoomControlTab.ReportBarsCombo.3	... no more than once every 15 sec	每15秒不超过一次	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ZoomControlTab.ReportBarsCombo.4	... no more than once every 45 seconds	每45秒不超过一次	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ZoomControlTab.SlowArCheck.Caption	if black bars change pick one zoom factor:	黑边改变时进行缩放：	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ZoomControlTab.SlowArCombo.Text	... which doesn't lose any image content	不丢失任何图像细节	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ZoomControlTab.SlowArCombo.0	... which doesn't lose any image content	不丢失任何图像细节	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ZoomControlTab.SlowArCombo.1	... which reduces black bar size by 25%	将黑边尺寸减少25％	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ZoomControlTab.SlowArCombo.2	... which reduces black bar size by 50%	将黑边尺寸减少50%	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ZoomControlTab.SlowArCombo.3	... which reduces black bar size by 75%	减少75% 的黑边尺寸	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ZoomControlTab.SlowArCombo.4	... which doesn't show any black bars	不显示黑边	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ZoomControlTab.QuickArCheck.Caption	if black bars change quickly back and forth...	黑边来回变化时	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ZoomControlTab.Panel12.CommonZoomRadio.Caption	... pick one common zoom factor:	进行缩放:	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ZoomControlTab.Panel12.ArDelayRadio.Caption	... don't switch more often than:	一定时间内不变换：	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ZoomControlTab.Panel12.CommonZoomCombo.Text	... which doesn't lose any image content	不丢失任何图像细节	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ZoomControlTab.Panel12.CommonZoomCombo.0	... which doesn't lose any image content	不丢失任何图像细节	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ZoomControlTab.Panel12.CommonZoomCombo.1	... which reduces black bar size by 25%	将黑边尺寸减少25％	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ZoomControlTab.Panel12.CommonZoomCombo.2	... which reduces black bar size by 50%	将黑边尺寸减少50%	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ZoomControlTab.Panel12.CommonZoomCombo.3	... which reduces black bar size by 75%	减少75% 的黑边尺寸	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ZoomControlTab.Panel12.CommonZoomCombo.4	... which doesn't show any black bars	不显示黑边	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ZoomControlTab.Panel12.ArDelayCombo.Text	... once every 2 sec	每2秒一次	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ZoomControlTab.Panel12.ArDelayCombo.0	... once every 2 sec	每2秒一次	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ZoomControlTab.Panel12.ArDelayCombo.1	... once every 5 sec	每5秒一次	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ZoomControlTab.Panel12.ArDelayCombo.2	... once every 15 sec	每15秒一次	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ZoomControlTab.Panel12.ArDelayCombo.3	... once every 45 seconds	每45秒一次	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ZoomControlTab.DontCropSubsCheck.Caption	keep bars visible if they contain subtitles:	黑边包含字幕时保持可见：	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ZoomControlTab.ClearBarsCheck.Caption	crop black bars	滋养黑边（视频处理前先切除黑边）	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ZoomControlTab.DontCropSubsCombo.Text	... for 45 seconds	45秒	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ZoomControlTab.DontCropSubsCombo.0	... for 5 seconds	5秒钟	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ZoomControlTab.DontCropSubsCombo.1	... for 15 seconds	15秒	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ZoomControlTab.DontCropSubsCombo.2	... for 45 seconds	45秒	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ZoomControlTab.DontCropSubsCombo.3	... for 3 minutes	3分钟	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ZoomControlTab.DontCropSubsCombo.4	... for 10 minutes	10分钟	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ZoomControlTab.DontCropSubsCombo.5	... for 30 minutes	30分钟	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ZoomControlTab.DontCropSubsCombo.6	... for 90 minutes	90分钟	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ZoomControlTab.DontCropSubsCombo.7	... forever	一直	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ZoomControlTab.ShiftImageCheck.Caption	always shift the image:	总是移动图像：	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ZoomControlTab.ShiftImageCombo.Text	... to the top of the screen	到屏幕的顶部	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ZoomControlTab.ShiftImageCombo.0	... to the top of the screen	到屏幕的顶部	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ZoomControlTab.ShiftImageCombo.1	... to the bottom of the screen	到屏幕底部	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ZoomControlTab.CleanBarBordersCheck.Caption	cleanup image borders by cropping:	通过裁剪清理图像边框：	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ZoomControlTab.CleanBarBordersCombo.Text	... 2 lines from all black bar borders	来自所有黑边的双行	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ZoomControlTab.CleanBarBordersCombo.0	... 1 line from all black bar borders	来自所有黑边的单行	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ZoomControlTab.CleanBarBordersCombo.1	... 2 lines from all black bar borders	来自所有黑边的双行	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ZoomControlTab.CleanBarBordersCombo.2	... 3 lines from all black bar borders	来自所有黑边的3条线	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ZoomControlTab.CleanBarBordersCombo.3	... 4 lines from all black bar borders	来自所有黑边的4条线	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ZoomControlTab.CleanBarBordersCombo.4	... 5 lines from all black bar borders	来自所有黑条边框的5条线	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ZoomControlTab.CleanBarBordersCombo.5	... 7 line from all black bar borders	7行从所有黑条边框	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ZoomControlTab.CleanBarBordersCombo.6	... 1 line from all 4 image borders	来自图像四个边界的单行	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ZoomControlTab.CleanBarBordersCombo.7	... 2 lines from all 4 image borders	来自图像四个边界的双行	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ZoomControlTab.CleanBarBordersCombo.8	... 3 lines from all 4 image borders	来自所有4个图像边框的3行	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ZoomControlTab.CleanBarBordersCombo.9	... 4 lines from all 4 image borders	来自所有4个图像边框的4条线	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ZoomControlTab.CleanBarBordersCombo.10	... 5 lines from all 4 image borders	来自所有4个图像边界的5行	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ZoomControlTab.CleanBarBordersCombo.11	... 7 line from all 4 image borders	7行, 来自所有4个图像边框	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ZoomControlTab.MoveSubsCheck.Caption	move subtitles:	移动字幕:	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ZoomControlTab.MoveSubsCombo.Text	... to bottom of the screen/window	到屏幕/窗口的底部	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ZoomControlTab.MoveSubsCombo.0	... to bottom of the screen/window	到屏幕/窗口的底部	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ZoomControlTab.MoveSubsCombo.1	... into active video area	进入活动视频区域	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.SmoothMotionTab.Caption	smooth motion	平滑	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.SmoothMotionTab.Panel6.SmoothMotion1Radio.Caption	only if there would be motion judder without it...	会有抖动时选这个时	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.SmoothMotionTab.Panel6.SmoothMotion2Radio.Caption	... or if the display refresh rate is an exact multiple of the movie frame rate	显示器刷新率是视频帧率的倍数时	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.SmoothMotionTab.Panel6.SmoothMotion3Radio.Caption	always	总是	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.SmoothMotionTab.SmoothMotionCheck.Caption	enable smooth motion frame rate conversion	启用平滑运动帧速率转换	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.KeysTab.Caption	keyboard shortcuts	键盘快捷键	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.KeysList.Columns[0].Caption	action	行为	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.KeysList.Columns[1].Caption	shortcut	快捷键	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.KeysTab.KeysFocusedCheck.Caption	use only if media player has keyboard focus	仅在媒体播放器具有键盘焦点时使用	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.KeysTab.EditKeysBtn.Caption	edit	编辑	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.IdTab.Caption	identification	识别	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.IdTab.Label11.Caption	Windows monitor name:	windows 监视器名称:	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.IdTab.Label12.Caption	Windows device path:	windows 驱动路径:	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.EdidTab.Caption	identification	识别	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.EdidListView.Columns[0].Caption	field	域	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.EdidListView.Columns[1].Caption	value	值	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.Edid2Tab.Caption	raw edid data	原始edid数据	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.OutputDeviceTab.Caption	output device	输出设备	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.OutputDeviceTab.Label15.Caption	Which output device is currently connected to the receiver?	当前哪个输出设备连接到接收器？	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DeviceTab.Caption	DeviceTab	设备	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DeviceTab.Label13.Caption	device type:	设备类型:	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DeviceTab.Label14.Caption	device name:	设备名称:	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DeviceTab.ReceiverRadio.Caption	Receiver, Processor, Switch	接收器，处理器，开关	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DeviceTab.FlatpanelRadio.Caption	Digital Monitor / TV	数字显示器/电视	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DeviceTab.BeamerRadio.Caption	Digital Projector	数字投影仪	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DeviceTab.CrtBeamerRadio.Caption	CRT projector	CRT投影机	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DeviceTab.CrtRadio.Caption	CRT monitor / TV	CRT显示器/电视	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DeviceTab.UnknownRadio.Caption	unknown	不知道	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DeviceTab.ActivateProfilesButton2.Caption	create profile group	创建配置文件	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DisplayPropsTab.Caption	DisplayPropsTab	显示方案	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DisplayPropsTab.Label28.Caption	the display expects the following RGB output levels:	显示器需要以下RGB输出电平：	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DisplayPropsTab.Label29.Caption	the native display bitdepth is:	本机显示器位深:	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DisplayPropsTab.BlackLevelLabel.Caption	black:	黑：	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DisplayPropsTab.WhiteLevelLabel.Caption	white:	白：	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DisplayPropsTab.Label46.Caption	3D format:	3d 模式:	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DisplayPropsTab.LevelsCombo.Text	PC levels (0-255)	PC(0-255)	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DisplayPropsTab.LevelsCombo.0	TV levels (16-235)	TV(16-235)	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DisplayPropsTab.LevelsCombo.1	PC levels (0-255)	PC(0-255)	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DisplayPropsTab.BitDepthCombo.Text	auto	自动	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DisplayPropsTab.BitDepthCombo.1	2 bit	2bit	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DisplayPropsTab.BitDepthCombo.2	3 bit	3bit	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DisplayPropsTab.BitDepthCombo.3	4 bit	4bit	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DisplayPropsTab.BitDepthCombo.4	5 bit	5bit	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DisplayPropsTab.BitDepthCombo.5	6 bit	6bit	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DisplayPropsTab.BitDepthCombo.6	7 bit	7bit	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DisplayPropsTab.BitDepthCombo.9	10 bit (or higher)	10bit (或更高)	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DisplayPropsTab.BitDepthCombo.10	auto	自动	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DisplayPropsTab.IpControlPanel.Label3.Caption	ip control:	ip控制:	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DisplayPropsTab.IpControlPanel.Label27.Caption	ip addr:	ip地址：	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DisplayPropsTab.IpControlPanel.ProjectorLabel.Caption	(n/a)	（n/a）	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DisplayPropsTab.IpControlPanel.FindProjectorBtn.Caption	find projector	查找投影仪	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DisplayPropsTab.IpControlPanel.TestProjectorBtn.Caption	test projector	测试投影仪	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DisplayPropsTab.IpControlPanel.PauseLensMemCheck.Caption	pause playback when activating a lens memory	激活镜头时暂停播放	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DisplayPropsTab.IpControlPanel.ResumeLensMemCheck.Caption	resume playback when lens memory activation is complete	镜头存储器激活完成后恢复播放	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DisplayPropsTab.Thr3dCombo.Text	auto	自动	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DisplayPropsTab.Thr3dCombo.0	none	无	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DisplayPropsTab.Thr3dCombo.1	auto	自动	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DisplayPropsTab.Thr3dCombo.2	side-by-side	左右屏	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DisplayPropsTab.Thr3dCombo.3	top-and-bottom	上下屏	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DisplayPropsTab.Thr3dCombo.4	line alternative	左右交错	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DisplayPropsTab.Thr3dCombo.5	column alternative	上下交错	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DisplayPropsTab.SwapEyesCheck.Caption	swap left / right eye	左/右眼交换	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ColorGammaTab.Caption	ColorGammaTab	cololgamma	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ColorGammaTab.GammaProcessingLabel.Caption	desired display gamma / transfer function:	伽玛/传递函数：	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ColorGammaTab.Label32.Caption	brightness:	亮度：	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ColorGammaTab.Label33.Caption	contrast:	对比度：	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ColorGammaTab.Label34.Caption	saturation:	饱和度：	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ColorGammaTab.Label35.Caption	hue:	色调：	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ColorGammaTab.DesiredCurveCombo.Text	pure power curve	纯力度曲线	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ColorGammaTab.DesiredCurveCombo.0	pure power curve	纯力度曲线	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ColorGammaTab.EnableGammaProcessingCheck.Caption	enable gamma processing	启用伽玛处理	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.CalibrationTab.Caption	CalibrationTab	校准	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.CalibrationTab.AlreadyCalibratedPanel.DisplayGamutLabel.Caption	the display is calibrated to the following primaries / gamut:	显示屏将被校准为以下原色/色域:	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.CalibrationTab.AlreadyCalibratedPanel.DisplayGammaLabel.Caption	the display is calibrated to the following transfer function / gamma:	显示屏被校准到以下函数/伽玛:	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.CalibrationTab.AlreadyCalibratedPanel.DisplayCurveCombo.Text	pure power curve	纯力度曲线	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.CalibrationTab.AlreadyCalibratedPanel.DisplayCurveCombo.0	pure power curve	纯力度曲线	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.CalibrationTab.AlreadyCalibratedPanel.DisplayCurveCombo.1	BT.709/601 curve	BT.709/601 曲线	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.CalibrationTab.AlreadyCalibratedPanel.Report2020BCheck.Caption	report BT.2020 to display  (Nvidia only)	显示bt 2020(仅限N卡)	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.CalibrationTab.External3dlutPanel.Label40.Caption	You don't have to provide a 3dlut file for every gamut. One 3dlut for all gamuts also works ok.	您不必为每个色域提供3dlut文件。 所有色域的使用一个3dlut也可以正常工作。	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.CalibrationTab.External3dlutPanel.Report2020ACheck.Caption	report BT.2020 to display  (Nvidia only)	显示bt 2020(仅限N卡)	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.CalibrationTab.Panel1.DisableCalibrationRadio.Caption	disable calibration controls for this display	禁用此显示器的校准	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.CalibrationTab.Panel1.CalibrateYCmsRadio.Caption	calibrate this display by using yCMS	使用yCMS校准此显示器	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.CalibrationTab.Panel1.Calibrate3dlutRadio.Caption	calibrate this display by using external 3DLUT files	使用外部3DLUT文件校准显示器	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.CalibrationTab.Panel1.AlreadyCalibratedRadio.Caption	this display is already calibrated	此显示器已经过校准	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.CalibrationTab.Panel1.DisableGpuRampsCheck.Caption	disable GPU gamma ramps	禁用 GPU gamma raps屏幕校色技术	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.YCMS1Tab.Label30.Caption	primaries / gamut measurements:	原色/色域测量:	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.YCMS1Tab.Label31.Caption	grayscale / gamma measurements:	灰度/伽玛测量：	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.GamutListView.Columns[0].Caption	measured color	测量的颜色	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.GamutListView.Columns[1].Caption	format	格式	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.GammaListView.Columns[0].Caption	measured IRE	测量IRE	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.GammaListView.Columns[1].Caption	format	格式	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.YCMS1Tab.GamutButton.Caption	edit	编辑	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.YCMS1Tab.GammaButton.Caption	edit	编辑	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.WindowedTweakTab.Caption	WindowedTweakTab	窗口调整	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.WindowedTweakTab.WindowedComboLabel.Caption	how many backbuffers shall be used:	使用反向缓冲区个数	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.WindowedTweakTab.Label5.Caption	when and how shall the GPU be flushed:	何时刷新GPU：	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.WindowedTweakTab.Label6.Caption	... after intermediate render steps	中间渲染步骤之后	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.WindowedTweakTab.Label7.Caption	... after last render step	最后一个渲染步骤之后	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.WindowedTweakTab.Label8.Caption	... after copy to backbuffer	复制到后缓冲区后	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.WindowedTweakTab.Label9.Caption	... after D3D presentation	Direct3D演示之后	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.WindowedTweakTab.AfterRenderStepsCombo.Text	flush	刷新	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.WindowedTweakTab.AfterRenderStepsCombo.0	don't flush	不刷新	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.WindowedTweakTab.AfterRenderStepsCombo.1	flush	刷新	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.WindowedTweakTab.AfterRenderStepsCombo.2	flush & wait (sleep)	刷新和等待（休眠）	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.WindowedTweakTab.AfterRenderStepsCombo.3	flush & wait (loop)	刷新和等待（循环）	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.WindowedTweakTab.AfterLastStepCombo.Text	flush & wait (sleep)	刷新和等待（休眠）	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.WindowedTweakTab.AfterLastStepCombo.0	don't flush	不刷新	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.WindowedTweakTab.AfterLastStepCombo.1	flush	刷新	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.WindowedTweakTab.AfterLastStepCombo.2	flush & wait (sleep)	刷新和等待（休眠）	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.WindowedTweakTab.AfterLastStepCombo.3	flush & wait (loop)	刷新和等待（循环）	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.WindowedTweakTab.AfterBackbufferCombo.Text	don't flush	不刷新	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.WindowedTweakTab.AfterBackbufferCombo.0	don't flush	不刷新	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.WindowedTweakTab.AfterBackbufferCombo.1	flush	刷新	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.WindowedTweakTab.AfterBackbufferCombo.2	flush & wait (sleep)	刷新和等待（休眠）	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.WindowedTweakTab.AfterBackbufferCombo.3	flush & wait (loop)	刷新和等待（循环）	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.WindowedTweakTab.AfterPresentCombo.Text	don't flush	不刷新	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.WindowedTweakTab.AfterPresentCombo.0	don't flush	不刷新	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.WindowedTweakTab.AfterPresentCombo.1	flush	刷新	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.WindowedTweakTab.AfterPresentCombo.2	flush & wait (sleep)	刷新和等待（休眠）	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.WindowedTweakTab.AfterPresentCombo.3	flush & wait (loop)	刷新和等待（循环）	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.WindowedTweakTab.NewWindowedPathCheck.Caption	present several frames in advance	预加载帧	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ExclusiveTweakTab.Caption	ExclusiveTweakTab	排除调整	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ExclusiveTweakTab.ExclComboLabel.Caption	how many backbuffers shall be used:	使用反向缓冲区个数	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ExclusiveTweakTab.Label19.Caption	when and how shall the GPU be flushed:	何时刷新GPU：	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ExclusiveTweakTab.Label20.Caption	... after intermediate render steps	中间渲染步骤之后	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ExclusiveTweakTab.Label21.Caption	... after last render step	最后一个渲染步骤之后	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ExclusiveTweakTab.Label22.Caption	... after copy to backbuffer	复制到后缓冲区后	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ExclusiveTweakTab.Label23.Caption	... after D3D presentation	Direct3D演示之后	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ExclusiveTweakTab.Label26.Caption	don't use the following options unless you absolutely need them for glitch free playback:	除非您绝对需要它们进行无干扰播放，否则请勿使用以下选项：	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ExclusiveTweakTab.AfterRenderStepsComboExcl.Text	flush	刷新	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ExclusiveTweakTab.AfterRenderStepsComboExcl.0	don't flush	不刷新	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ExclusiveTweakTab.AfterRenderStepsComboExcl.1	flush	刷新	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ExclusiveTweakTab.AfterRenderStepsComboExcl.2	flush & wait (sleep)	刷新和等待（休眠）	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ExclusiveTweakTab.AfterRenderStepsComboExcl.3	flush & wait (loop)	刷新和等待（循环）	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ExclusiveTweakTab.AfterLastStepComboExcl.Text	flush & wait (sleep)	刷新和等待（休眠）	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ExclusiveTweakTab.AfterLastStepComboExcl.0	don't flush	不刷新	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ExclusiveTweakTab.AfterLastStepComboExcl.1	flush	刷新	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ExclusiveTweakTab.AfterLastStepComboExcl.2	flush & wait (sleep)	刷新和等待（休眠）	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ExclusiveTweakTab.AfterLastStepComboExcl.3	flush & wait (loop)	刷新和等待（循环）	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ExclusiveTweakTab.AfterBackbufferComboExcl.Text	don't flush	不刷新	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ExclusiveTweakTab.AfterBackbufferComboExcl.0	don't flush	不刷新	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ExclusiveTweakTab.AfterBackbufferComboExcl.1	flush	刷新	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ExclusiveTweakTab.AfterBackbufferComboExcl.2	flush & wait (sleep)	刷新和等待（休眠）	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ExclusiveTweakTab.AfterBackbufferComboExcl.3	flush & wait (loop)	刷新和等待（循环）	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ExclusiveTweakTab.AfterPresentComboExcl.Text	don't flush	不刷新	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ExclusiveTweakTab.AfterPresentComboExcl.0	don't flush	不刷新	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ExclusiveTweakTab.AfterPresentComboExcl.1	flush	刷新	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ExclusiveTweakTab.AfterPresentComboExcl.2	flush & wait (sleep)	刷新和等待（休眠）	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ExclusiveTweakTab.AfterPresentComboExcl.3	flush & wait (loop)	刷新和等待（循环）	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ExclusiveTweakTab.SeekbarCheck.Caption	show seek bar	显示搜索栏	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ExclusiveTweakTab.ExclDelayCheck.Caption	delay switch to exclusive mode by 3 seconds	延迟切换到独占模式3秒	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ExclusiveTweakTab.NewExclPathCheck.Caption	present several frames in advance	预加载帧	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ExclusiveTweakTab.PresentThreadCheck.Caption	run presentation in a separate thread	在单独的线程中预加载	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ExclusiveTweakTab.AvoidGlitchesCheck.Caption	limit rendering times to avoid glitches	限制渲染时间以避免毛刺	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ExclusiveTweakTab.OvershootLatencyCheck.Caption	overshoot max frame latency (Vista and newer)	超过最大帧延迟（Vista和及以上系统支持）	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ArtifactTab.Caption	ArtifactTab	伪影	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ArtifactTab.DebandStrengthLabel.Caption	default debanding strength:	默认去色阶断层强度：	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ArtifactTab.DebandFadeLabel.Caption	strength during fade in/out:	淡入/淡出时的强度：	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ArtifactTab.Label64.Caption	(not recommended for Anime)	(不推荐用于动漫)	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ArtifactTab.DeblockStrengthLabel.Caption	strength:	强度：	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ArtifactTab.DenoiseStrengthLabel.Caption	strength:	强度：	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ArtifactTab.DeblockQualityLabel.Caption	quality:	质量：	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ArtifactTab.DebandCheck.Caption	reduce banding artifacts	减少条带	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ArtifactTab.Panel7.Deband0Radio.Caption	low	低	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ArtifactTab.Panel7.Deband1Radio.Caption	medium	中等	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ArtifactTab.Panel7.Deband2Radio.Caption	high	高	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ArtifactTab.Panel8.DebandFade0Radio.Caption	low	低	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ArtifactTab.Panel8.DebandFade1Radio.Caption	medium	中等	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ArtifactTab.Panel8.DebandFade2Radio.Caption	high	高	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ArtifactTab.DeringCheck.Caption	reduce ringing artifacts	减少振铃伪影	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ArtifactTab.DeringFullCheck.Caption	reduce dark halos around bright edges, too	减少明亮边缘周围的黑暗光晕	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ArtifactTab.DeblockCheck.Caption	reduce compression artifacts	减少压缩失真	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ArtifactTab.DeblockChromaCheck.Caption	process chroma channels, too	处理色度通道	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ArtifactTab.DenoiseCheck.Caption	reduce random noise	减少随机噪点	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ArtifactTab.DenoiseChromaCheck.Caption	process chroma channels, too	处理色度通道	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ArtifactTab.DeblockQualityCombo.Text	medium	中等	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ArtifactTab.DeblockQualityCombo.0	low	低	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ArtifactTab.DeblockQualityCombo.1	medium	中等	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ArtifactTab.DeblockQualityCombo.2	high	高	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ArtifactTab.DeblockQualityCombo.3	very high	很高	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ArtifactTab.DeblockFreeCheck.Caption	activate only if it comes for free (as part of NGU sharp)	只在空闲时激活（作为NGU锐化的一部分）	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DeinterlacingTab.Caption	DeinterlacingTab	去隔行	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DeinterlacingTab.ActivateDeinterlacingCheck.Caption	automatically activate deinterlacing when needed	在需要时自动激活去隔行扫描	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DeinterlacingTab.DisableAutoContentTypeCheck.Caption	disable automatic source type detection	禁用视频源类型检测	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DeinterlacingTab.ScanPartialFrameCheck.Caption	only look at pixels in the frame center  (good for broadcasts, bad for Anime)	不侦测画面四角的像素（适合画面四角有台标的TV广播，不适合动漫）	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DeinterlacingTab.Panel4.IfInDoubtOnRadio.Caption	if in doubt, activate deinterlacing	如果有故障，启动去隔行扫描	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DeinterlacingTab.Panel4.IfInDoubtOffRadio.Caption	if in doubt, deactivate deinterlacing	如果有故障，停用去隔行扫描	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DeinterlacingTab.Panel5.FilmModeRadio.Caption	force film mode	强制电影模式	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DeinterlacingTab.Panel5.VideoModeRadio.Caption	force video mode	强制视频模式	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.RenderTweakTab.Caption	RenderTweakTab	渲染调整	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.RenderTweakTab.CpuQueueLabel.Caption	CPU queue size: 16	CPU线程数：16	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.RenderTweakTab.GpuQueueLabel.Caption	GPU queue size: 8	GPU线程数：8	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.RenderTweakTab.ExclusiveCheck.Caption	enable automatic fullscreen exclusive mode	自动全屏独占模式	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.RenderTweakTab.DisableAeroCheck.Caption	disable desktop composition (Vista and Windows 7)	禁用桌面组合（Vista和Windows 7）	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.RenderTweakTab.MpFullscreenCheck.Caption	only when media player is in fullscreen mode	仅当媒体播放器处于全屏时	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.RenderTweakTab.SeparateDeviceCheck.Caption	use a separate device for presentation (Vista and newer)	分离一个设备用于显示（Vista或更高版本）	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.RenderTweakTab.DelayPlaybackStartCheck.Caption	delay playback start until render queue is full	进行延迟播放直到渲染队列已满	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.RenderTweakTab.DelaySeekCheck.Caption	delay playback start after seeking, too	寻址后开始延迟播放	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.RenderTweakTab.OverlayCheck.Caption	enable windowed overlay (Windows 7 and newer)	启用窗口覆盖（Windows 7或更高版本）	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.RenderTweakTab.DxvaDeviceCheck.Caption	use a separate device for DXVA processing (Vista and newer)	分离一个设备用于硬件加速（Vista或更高版本）	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.RenderTweakTab.D3D11Check.Caption	use Direct3D 11 for presentation (Windows 7 and newer)	使用Direct3D 11进行演示（Windows 7及更高版本）	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.RenderTweakTab.D3D11NoDelayCheck.Caption	present a frame for every VSync	为垂直同步建立一个框架	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.TradeQualityTab.Caption	TradeQualityTab	性能	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.TradeQualityTab.Label42.Caption	these may give a performance advantage for a small loss in quality:	这些可能会给播放效果造成轻微损失，但节约性能：	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.TradeQualityTab.Label43.Caption	these should not be used, but you're the boss:	下面这些不应该被使用,但你是老大你说了算>_<：	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.TradeQualityTab.TenBitChromaCheck.Caption	use 10bit chroma buffer instead of 16bit	使用10bit色度缓冲区而不是16bit	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.TradeQualityTab.TenBitLumaCheck.Caption	use 10bit image buffer instead of 16bit	使用10bit位图像缓冲区而不是16bit	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.TradeQualityTab.CustomShaders16fCheck.Caption	store custom pixel shader results in 16bit buffer instead of 32bit	存储自定义像素着色器输出的16位缓冲区而不是32位缓冲区	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.TradeQualityTab.CustomShadersTvCheck.Caption	run custom pixel shaders in video levels instead of PC levels	在视频层而不是PC层运行自定义像素着色器	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.TradeQualityTab.HalfDxvaCheck.Caption	use half frame rate for DXVA deinterlacing	使用半帧速率来进行硬件加速去隔行扫描	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.TradeQualityTab.DxvaChromaWhenDecodeCheck.Caption	use DXVA chroma upscaling when doing native DXVA decoding	在进行硬解时使用硬件加速的色度增强技术	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.TradeQualityTab.DxvaChromaWhenDeintCheck.Caption	use DXVA chroma upscaling when doing DXVA deinterlacing	在进行硬件去隔行扫描时使用硬件加速的色度增强技术	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.TradeQualityTab.GammaBlendingCheck.Caption	don't use linear light for smooth motion frame blending	禁用线性光进行平滑的运动帧混合	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.TradeQualityTab.FastSubtitlesCheck.Caption	optimize subtitle quality for performance instead of quality	优化字幕显示以节约性能	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.TradeQualityTab.NoAnglesCheck.Caption	don't analyze gradient angles for debanding	禁用去除褪色的渐变角度分析	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.TradeQualityTab.DontRerenderFadeCheck.Caption	don't rerender frames when fade in/out is detected	检测到淡入/淡出时不需要重新渲染帧	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.TradeQualityTab.GammaDitherCheck.Caption	don't use linear light for dithering	禁用线性光进行抖动	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.TradeQualityTab.MayLoseBtbCheck.Caption	lose BTB and WTW if it improves performance	如果能提高性能，禁用BTB和WTW	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.TradeQualityTab.DxvaTrustMatrixCheck.Caption	trust DXVA color && levels conversion	相信硬件加速的色彩和码率的转换能力	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.TradeQualityTab.DownscalePathCheck.Caption	scale chroma separately, if it saves performance	如果它可以节省性能，则单独调整色度	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.TradeQualityTab.DumbToneMappingCheck.Caption	compromise on tone && gamut mapping accuracy	在色调和色域映射精度方面做出妥协	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ImageEnhanceTab.Caption	ImageEnhanceTab	图像增强	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ImageEnhanceTab.FineSharpCheck.Caption	crispen edges	边缘清晰	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ImageEnhanceTab.LumaSharpenCheck.Caption	LumaSharpen	整体锐化	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ImageEnhanceTab.Button1.Caption	restore defaults	还原默认值	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ImageEnhanceTab.AdaptiveSharpenCheck.Caption	AdaptiveSharpen	自适应锐化	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ImageEnhanceTab.SharpenCheck.Caption	sharpen edges	边缘锐化	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ImageEnhanceTab.ThinCheck.Caption	thin edges	边缘细化	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ImageEnhanceTab.DetailCheck.Caption	enhance detail	细节增强	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ImageEnhanceTab.SharpenABCheck.Caption	activate anti-bloating filter	激活强化高频阻断（AB）滤镜	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ImageEnhanceTab.SharpenARCheck.Caption	activate anti-ringing filter	激活抗振铃（AR）滤镜	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ImageEnhanceTab.SharpenABCombo.Text	strength: 25%	强度：25％	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ImageEnhanceTab.SharpenABCombo.0	strength: 25%	强度：25％	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ImageEnhanceTab.SharpenABCombo.1	strength: 50%	强度：50％	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ImageEnhanceTab.SharpenABCombo.2	strength: 75%	强度：75％	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ImageEnhanceTab.SharpenABCombo.3	strength: 100%	强度：100％	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ImageEnhanceTab.SharpenABCombo.4	strength: 125%	强度：125％	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ImageEnhanceTab.SharpenABCombo.5	strength: 150%	强度：150％	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ImageEnhanceTab.AdaptiveSharpenLinearCheck.Caption	linear light	线性光	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.UpRefineTab.Caption	UpRefineTab	UpRefine	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.UpRefineTab.SuperResCheck.Caption	SuperRes	超分辨率	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.UpRefineTab.UpFineSharpCheck.Caption	crispen edges	边缘清晰	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.UpRefineTab.UpLumaSharpenCheck.Caption	LumaSharpen	整体锐化	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.UpRefineTab.Refine2xRadio.Caption	refine the image after every ~2x upscaling step	每次2x扩大后细化图像	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.UpRefineTab.RefineOnceRadio.Caption	refine the image only once after upscaling is complete	在扩大完成后仅对图像进行一次优化	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.UpRefineTab.UpAdaptiveSharpenCheck.Caption	AdaptiveSharpen	自适应锐化	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.UpRefineTab.SuperResLinearCheck.Caption	linear light	线性光	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.UpRefineTab.UpSharpenCheck.Caption	sharpen edges	边缘锐化	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.UpRefineTab.UpThinCheck.Caption	thin edges	边缘细化	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.UpRefineTab.UpDetailCheck.Caption	enhance detail	细节增强	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.UpRefineTab.UpSharpenABCheck.Caption	activate anti-bloating filter	激活强化高频阻断（AB）滤镜	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.UpRefineTab.UpSharpenARCheck.Caption	activate anti-ringing filter	激活抗振铃（AR）滤镜	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.UpRefineTab.SuperResABCheck.Caption	anti-bloating	强高频阻低频	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.UpRefineTab.SuperResARCheck.Caption	anti-ringing	抗振铃	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.UpRefineTab.UpSharpenABCombo.Text	strength: 25%	强度：25％	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.UpRefineTab.UpSharpenABCombo.0	strength: 25%	强度：25％	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.UpRefineTab.UpSharpenABCombo.1	strength: 50%	强度：50％	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.UpRefineTab.UpSharpenABCombo.2	strength: 75%	强度：75％	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.UpRefineTab.UpSharpenABCombo.3	strength: 100%	强度：100％	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.UpRefineTab.UpSharpenABCombo.4	strength: 125%	强度：125％	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.UpRefineTab.UpSharpenABCombo.5	strength: 150%	强度：150％	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.UpRefineTab.SuperResABCombo.Text	strength: 25%	强度：25％	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.UpRefineTab.SuperResABCombo.0	strength: 25%	强度：25％	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.UpRefineTab.SuperResABCombo.1	strength: 50%	强度：50％	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.UpRefineTab.SuperResABCombo.2	strength: 75%	强度：75％	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.UpRefineTab.SuperResABCombo.3	strength: 100%	强度：100％	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.UpRefineTab.SuperResABCombo.4	strength: 125%	强度：125％	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.UpRefineTab.SuperResABCombo.5	strength: 150%	强度：150％	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.UpRefineTab.UpSoftenCheck.Caption	soften edges	软化边缘	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.UpRefineTab.UpGrainCheck.Caption	add grain	添加颗粒	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.UpRefineTab.UpAdaptiveSharpenLinearCheck.Caption	linear light	线性光	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ChromaScaleTab.Caption	ChromaScaleTab	色标	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ChromaScaleTab.Panel10.ScalingPanel.Label2.Caption	processing done by GPU texture units:	GPU纹理映射映射单元的工作算法：	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ChromaScaleTab.Panel10.ScalingPanel.Label4.Caption	(not recommended)	(不推荐)	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ChromaScaleTab.Panel10.ScalingPanel.CustomPSLabel.Caption	processing done by custom pixel shader code:	自定义像素着色器：	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ChromaScaleTab.Panel10.ScalingPanel.CNearestNeighborRadio.Caption	Nearest Neighbor	邻近算法	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ChromaScaleTab.Panel10.ScalingPanel.CBilinearRadio.Caption	Bilinear	双线算法	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ChromaScaleTab.Panel10.Panel11.CSuperResCheck.Caption	activate SuperRes filter, strength:	激活超级锐化过滤器, 强度:	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ChromaScaleTab.Panel10.Panel11.CAntiRingingCheck.Caption	activate anti-ringing filter	激活抗振铃（AR）滤镜	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.UpscaleTab.Caption	UpscaleTab	扩大	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.UpscaleTab.UDoublerPanel.Label92.Caption	<--  upscaling algo	< - 扩大算法	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.UpscaleTab.UDoublerPanel.Label90.Caption	<--  luma doubling	< - luma倍增	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.UpscaleTab.UDoublerPanel.Label41.Caption	<--  luma quadrupling	< - luma四倍	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.UpscaleTab.UDoublerPanel.Label98.Caption	algorithm quality:	算法质量:	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.UpscaleTab.UDoublerPanel.Label99.Caption	<--  chroma	< - 色度	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.UpscaleTab.UDoublerPanel.Label100.Caption	if any (more) scaling needs to be done:	如果需要进行更多缩放：	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.UpscaleTab.UDoublerPanel.Label101.Caption	<--  downscaling algo	< - 缩小算法	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.UpscaleTab.UDoublerPanel.Label102.Caption	activate doubling / quadrupling...	激活倍增/四倍	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.UpscaleTab.UDoublerPanel.Label91.Caption	<--  doubling	< - 加倍	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.UpscaleTab.UDoublerPanel.Label103.Caption	<--  quadrupling	< - 四倍	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.UpscaleTab.UDoublerPanel.ULumaQuadCombo.Text	let madVR decide	让madVR决定	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.UpscaleTab.UDoublerPanel.ULumaQuadCombo.0	let madVR decide	让madVR决定	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.UpscaleTab.UDoublerPanel.ULumaQuadCombo.1	disabled	禁用	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.UpscaleTab.UDoublerPanel.ULumaQuadCombo.2	double again -> low	加倍两次 -> 低	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.UpscaleTab.UDoublerPanel.ULumaQuadCombo.3	double again -> medium	加倍两次 -> 中等	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.UpscaleTab.UDoublerPanel.ULumaQuadCombo.4	double again -> high	加倍两次 -> 高	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.UpscaleTab.UDoublerPanel.ULumaQuadCombo.5	double again -> very high	加倍两次 -> 非常高	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.UpscaleTab.UDoublerPanel.ULumaQuadCombo.6	direct quadruple -> low	直接四倍 -> 低	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.UpscaleTab.UDoublerPanel.ULumaQuadCombo.7	direct quadruple -> medium	直接四倍 -> 中等	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.UpscaleTab.UDoublerPanel.ULumaQuadCombo.8	direct quadruple -> high	直接四倍 -> 高	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.UpscaleTab.UDoublerPanel.ULumaQuadCombo.9	direct quadruple -> very high	直接四倍 -> 非常高	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.UpscaleTab.UDoublerPanel.UUpscaleCombo.Text	let madVR decide	让madVR决定	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.UpscaleTab.UDoublerPanel.UUpscaleCombo.0	let madVR decide	让madVR决定	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.UpscaleTab.UDoublerPanel.ULumaDoublingCombo.Text	medium	中等	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.UpscaleTab.UDoublerPanel.ULumaDoublingCombo.0	low	低	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.UpscaleTab.UDoublerPanel.ULumaDoublingCombo.1	medium	中等	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.UpscaleTab.UDoublerPanel.ULumaDoublingCombo.2	high	高	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.UpscaleTab.UDoublerPanel.ULumaDoublingCombo.3	very high	很高	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.UpscaleTab.UDoublerPanel.UChromaCombo.Text	let madVR decide	让madVR决定	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.UpscaleTab.UDoublerPanel.UChromaCombo.0	let madVR decide	让madVR决定	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.UpscaleTab.UDoublerPanel.UChromaCombo.1	normal	正常	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.UpscaleTab.UDoublerPanel.UChromaCombo.2	high	高	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.UpscaleTab.UDoublerPanel.UChromaCombo.3	very high	很高	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.UpscaleTab.UDoublerPanel.UDownscaleCombo.Text	let madVR decide	让madVR决定	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.UpscaleTab.UDoublerPanel.UDownscaleCombo.0	let madVR decide	让madVR决定	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.UpscaleTab.UDoublerPanel.UDownscaleCombo.1	use "image downscaling" settings	使用“图像缩小”设置	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.UpscaleTab.UDoublerPanel.UDownscaleCombo.5	Bicubic60 AR Linear Light	Bicubic60 AR 线性光	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.UpscaleTab.UDoublerPanel.UDownscaleCombo.7	Bicubic150 AR Linear Light	Bicubic150 AR 线性光	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.UpscaleTab.UDoublerPanel.UDownscaleCombo.9	Lanczos3 AR Linear Light	Lanczos3 AR 线性光	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.UpscaleTab.UDoublerPanel.UDownscaleCombo.11	SSIM 1D100 AR Linear Light	SSIM 1D100 AR 线性光	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.UpscaleTab.UDoublerPanel.UActivateDoublingCombo.Text	let madVR decide	让madVR决定	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.UpscaleTab.UDoublerPanel.UActivateDoublingCombo.0	let madVR decide	让madVR决定	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.UpscaleTab.UDoublerPanel.UActivateDoublingCombo.1	... only if scaling factor is 2.0x (or bigger)	仅当缩放系数为 2.0 x (或更大) 时	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.UpscaleTab.UDoublerPanel.UActivateDoublingCombo.2	... only if scaling factor is 1.5x (or bigger)	仅当缩放系数为 1.5倍 (或更大) 时	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.UpscaleTab.UDoublerPanel.UActivateDoublingCombo.3	... only if scaling factor is 1.2x (or bigger)	仅当缩放系数为 1.2倍 (或更大) 时	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.UpscaleTab.UDoublerPanel.UActivateDoublingCombo.4	... only if any upscaling is needed	仅在需要任何扩大的情况下	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.UpscaleTab.UDoublerPanel.UActivateDoublingCombo.5	... always - supersampling	总是 - 超级采样	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.UpscaleTab.UDoublerPanel.UActivateQuadCombo.Text	let madVR decide	让madVR决定	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.UpscaleTab.UDoublerPanel.UActivateQuadCombo.0	let madVR decide	让madVR决定	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.UpscaleTab.UDoublerPanel.UActivateQuadCombo.1	... only if scaling factor is 4.0x (or bigger)	仅当缩放系数为 4.0 x (或更大) 时	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.UpscaleTab.UDoublerPanel.UActivateQuadCombo.2	... only if scaling factor is 3.0x (or bigger)	仅当缩放系数为 3.0 x (或更大) 时	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.UpscaleTab.UDoublerPanel.UActivateQuadCombo.3	... only if scaling factor is 2.4x (or bigger)	仅当缩放系数为 2.4倍 (或更大) 时	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.UpscaleTab.UDoublerPanel.UActivateQuadCombo.4	... only if any upscaling is needed	仅在需要任何扩大的情况下	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.UpscaleTab.ULinearPanel.USigmoidalLightCheck.Caption	scale in sigmoidal light	在S形光中扩大	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.UpscaleTab.ULinearPanel.UAntiRingingCheck.Caption	activate anti-ringing filter	激活抗振铃（AR）滤镜	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.UpscaleTab.Panel21.Label89.Caption	upscaling:	扩大：	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.UpscaleTab.Panel21.Label97.Caption	doubling:	加倍：	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.UpscaleTab.Panel21.UDXVARadio.Caption	DXVA2	硬件加速	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.UpscaleTab.Panel21.UNGUAntiAliasRadio.Caption	NGU Anti-Alias	NGU 抗锯齿	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.UpscaleTab.Panel21.USuperXbrRadio.Caption	super-xbr	super-xbr算法	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.UpscaleTab.Panel21.UNGUSoftRadio.Caption	NGU Soft	NGU 柔化	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.UpscaleTab.Panel21.UNGUStandardRadio.Caption	NGU Standard	NGU 标准	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.UpscaleTab.Panel21.UNGUSharpRadio.Caption	NGU Sharp	NGU 锐化	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DownscaleTab.Caption	DownscaleTab	下限	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DownscaleTab.Panel23.Panel24.Label93.Caption	processing done by GPU texture units:	GPU纹理映射映射单元的工作算法：	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DownscaleTab.Panel23.Panel24.Label94.Caption	(not recommended)	(不推荐)	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DownscaleTab.Panel23.Panel24.Label95.Caption	processing done by GPU video logic:	GPU视频逻辑完成的处理：	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DownscaleTab.Panel23.Panel24.Label96.Caption	processing done by custom pixel shader code:	自定义像素着色器：	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DownscaleTab.Panel23.Panel24.DNearestNeighborRadio.Caption	Nearest Neighbor	邻近算法	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DownscaleTab.Panel23.Panel24.DBilinearRadio.Caption	Bilinear	双线算法	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DownscaleTab.Panel23.Panel24.DDXVARadio.Caption	DXVA2	硬件加速	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DownscaleTab.Panel23.Panel25.DAntiRingingCheck.Caption	activate anti-ringing filter	激活抗振铃（AR）滤镜	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DownscaleTab.Panel23.Panel25.DLinearLightCheck.Caption	scale in linear light	线性光线缩放	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DownscaleTab.Panel23.Panel25.DAntiBloatingCheck.Caption	activate anti-bloating filter	激活强高频阻低频（AB）滤镜	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DownscaleTab.Panel23.Panel25.DAntiBloatingCombo.Text	strength: 25%	强度：25％	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DownscaleTab.Panel23.Panel25.DAntiBloatingCombo.0	strength: 25%	强度：25％	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DownscaleTab.Panel23.Panel25.DAntiBloatingCombo.1	strength: 50%	强度：50％	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DownscaleTab.Panel23.Panel25.DAntiBloatingCombo.2	strength: 75%	强度：75％	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DownscaleTab.Panel23.Panel25.DAntiBloatingCombo.3	strength: 100%	强度：100％	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DownscaleTab.Panel23.Panel25.DAntiBloatingCombo.4	strength: 125%	强度：125％	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DownscaleTab.Panel23.Panel25.DAntiBloatingCombo.5	strength: 150%	强度：150％	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DownscaleTab.Panel23.Panel25.DAntiRingingCombo.Text	relaxed	空闲时	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DownscaleTab.Panel23.Panel25.DAntiRingingCombo.0	relaxed	空闲时	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DownscaleTab.Panel23.Panel25.DAntiRingingCombo.1	strict (soft)	严格（宽松）	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DisplayModesTab.Caption	DisplayModesTab	显示模式	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DisplayModesTab.Label16.Caption	list all display modes madVR may switch to:	列出madVR可能切换到的所有显示模式：	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DisplayModesTab.Label17.Caption	leave empty to disable automatic display mode matching	留空格以禁用自动显示模式匹配	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DisplayModesTab.Label18.Caption	Example:	例如：	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DisplayModesTab.Label25.Caption	use operating system refresh rate name, e.g. usually "23" for 23.976	使用系统刷新率命名，例如 23.976通常为“23”	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DisplayModesTab.DisplayModesLabel.Caption	(valid)	（有效）	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DisplayModesTab.SlowDownCheck.Caption	treat 25p movies as 24p  (requires Reclock or VideoClock)	将25p电影视为24p（需要Reclock或VideoClock）	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DisplayModesTab.RestoreDisplayModeCheck.Caption	restore original display mode...	恢复原始显示模式	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DisplayModesTab.EnableDisplayModeChangerCheck.Caption	switch to matching display mode...	切换到匹配的显示模式	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DisplayModesTab.Panel2.SwitchOnPlayRadio.Caption	... when playback starts	播放开始时	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DisplayModesTab.Panel2.SwitchOnFullscreenRadio.Caption	... when media player goes fullscreen	媒体播放器全屏时	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DisplayModesTab.Panel3.RestoreOnCloseRadio.Caption	... when media player is closed	媒体播放器关闭时	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DisplayModesTab.Panel3.RestoreOnWindowedRadio.Caption	... when media player leaves fullscreen	媒体播放器全屏离开时	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DisplayModesTab.HackD3DCheck.Caption	hack Direct3D to make 24.000Hz and 60.000Hz work	强行使用｛hack｝Direct3D使24.000Hz和60.000Hz工作	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.CustomModesTab.Caption	custom modes	自定义模式	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.CustomModesTab.DelBtn.Caption	delete	删除	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.CustomModesTab.AddBtn.Caption	add	添加	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.CustomModesTab.EditBtn.Caption	edit	编辑	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.CustomModesTab.OptimizeBtn.Caption	optimize	优化	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.CustomModesTab.ResetGpuBtn.Caption	reset gpu	重置gpu	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.ModesList.Columns[0].Caption	width	宽度	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.ModesList.Columns[1].Caption	height	高度	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.ModesList.Columns[4].Caption	active	激活	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.CustomModesTab.NativeResCheck.Caption	show native res modes, only	仅显示原生res模式	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.UnknownTab.Caption	UnknownTab	未知	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.UnknownTab.Label1.Caption	These settings are unknown to this version of the settings browser.	作者预留，用来以后填坑的版块。	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.FolderTab.Caption	FolderTab	文件夹	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ProfileParentTab.Caption	ProfileParentTab	配置文件	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ProfileParentTab.ActivateProfilesButton.Caption	create profile group	创建配置文件	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ProfileTab.Caption	ProfileTab	用户	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ProfileTab.Label44.Caption	keyboard shortcut to activate this profile:	键盘快捷方式激活此配置文件:	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ProfileTab.Label49.Caption	profile name:	配置文件:	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ProfileTab.Label50.Caption	command line to execute when this profile is activated:	激活此配置文件时要执行的命令行:	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ProfileTab.Label51.Caption	command line to execute when this profile is deactivated:	停用此配置文件时要执行的命令行：	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ProfileTab.EditProfileKeyButton.Caption	edit shortcut	编辑快捷键	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ProfileTab.CopyProfileButton.Caption	duplicate profile	载入配置文件	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ProfileTab.DelProfileButton.Caption	delete profile	删除配置文件	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ProfileRootTab.Caption	ProfileRootTab	用户	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ProfileRootTab.Label45.Caption	keyboard shortcut to toggle profiles:	用于切换配置文件的键盘快捷键：	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ProfileRootTab.Label47.Caption	profile group name:	配置文件组名称:	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ProfileRootTab.Label48.Caption	profile auto select rules:	配置文件自动选择规则:	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ProfileRootTab.ProfileRulesHelpLabel.Caption	(click here for online help)	(点击此处获取联机帮助)	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ProfileRootTab.AddProfileButton.Caption	add profile	添加配置文件	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ProfileRootTab.EditProfileRootKeyButton.Caption	edit shortcut	编辑快捷键	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ProfileRootTab.ProfileRulesMemo.Hint	for help go to first page of this thread: http://forum.doom9.org/showthread.php?t=146228	如需帮助请访问：http://forum.doom9.org/showthread.php?t=146228	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ProfileRootTab.DeactivateProfilesButton.Caption	delete profile group	删除配置文件	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.TooOldTab.Caption	TooOldTab	太旧了	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.TooOldTab.Label10.Caption	You need a new version of the settings browser to see and change these settings.	您需要新版本的设置浏览器才能查看和更改这些设置。	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DitheringTab.Caption	DitheringTab	抖动	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DitheringTab.Label52.Caption	algorithm:	算法：	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DitheringTab.Label53.Caption	options:	选项：	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DitheringTab.Label54.Caption	simple rounding - not recommended !!	简单的渲染 - 不推荐!!	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DitheringTab.Label55.Caption	noisy, fast, no dither patterns	嘈杂，快速，无抖动模式	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DitheringTab.Label56.Caption	fast alternative to Error Diffusion	错误扩散的快速替代方案	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DitheringTab.Label57.Caption	mid noise level, no dither patterns	中等噪音水平，无抖动痕迹	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DitheringTab.Label58.Caption	low noise level, mild dither patterns	低噪音，有少部分抖动痕迹	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DitheringTab.Label59.Caption	(requires DX11 GPU)	（需要支持DX11的 GPU）	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DitheringTab.Label60.Caption	(requires DX11 GPU)	（需要支持DX11的 GPU）	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DitheringTab.Label61.Caption	lowers luma noise, increases chroma noise	降低亮度噪声，增加色度噪声	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DitheringTab.Label62.Caption	hides dither patterns, but subjectively increases noise	隐藏抖动模式，但主观上增加了噪音	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DitheringTab.NoDitherRadio.Caption	None	无	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DitheringTab.RandomDitherRadio.Caption	Random Dithering	随机抖动	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DitheringTab.OrderedDitherRadio.Caption	Ordered Dithering	有序抖动	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DitheringTab.ErrorDifMedRadio.Caption	Error Diffusion - option 1	降低底噪 - 模式1	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DitheringTab.ErrorDifLowRadio.Caption	Error Diffusion - option 2	降低底躁 - 模式2	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DitheringTab.ColoredDitherCheck.Caption	use colored noise	使用有色噪点	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.DitheringTab.DynamicDitherCheck.Caption	change dither for every frame	改变每帧的抖动	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.Thr3dTab.Caption	Thr3dTab	Thr3d	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.Thr3dTab.Thr3dCheck.Caption	enable stereo 3d playback	启用3D播放功能	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.Thr3dTab.Play2dCheck.Caption	when playing 2d content:	播放2D内容时：	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.Thr3dTab.Panel16.Enable2dRadio.Caption	enable	使	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.Thr3dTab.Panel16.Disable2dRadio.Caption	disable os stereo 3d support for all displays	禁用所有显示器的3d功能	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.Thr3dTab.Play3dCheck.Caption	when playing 3d content:	播放3D内容时：	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.Thr3dTab.Panel17.Enable3dRadio.Caption	enable	使	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.Thr3dTab.Panel17.Disable3dRadio.Caption	disable os stereo 3d support for all displays	禁用所有显示器的3d功能	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.Thr3dTab.Restore3dCheck.Caption	restore os stereo 3d settings when media player is closed	媒体播放器关闭时恢复3d设置	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.OkBtn.Caption	OK	确定	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.CancelBtn.Caption	Cancel	取消	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.ApplyBtn.Caption	Apply	应用	
+madHcCtrl.exe.Forms.TFTRAYICONSETTINGS.Caption	Tray Icon Settings...	托盘图标设置	
+madHcCtrl.exe.Forms.TFTRAYICONSETTINGS.LocalPcRadio.Caption	show tray icon when madVR is running on local PC	当madVR在本地PC上运行时显示托盘图标	
+madHcCtrl.exe.Forms.TFTRAYICONSETTINGS.AlwaysRadio.Caption	always show tray icon	始终显示托盘图标	
+madHcCtrl.exe.Forms.TFTRAYICONSETTINGS.LanRadio.Caption	show tray icon when madVR is running anywhere on the LAN	当madVR在LAN上的任何位置运行时显示托盘图标	
+madHcCtrl.exe.Forms.TFTRAYICONSETTINGS.OkBtn.Caption	OK	确定	
+madHcCtrl.exe.Forms.TFTRAYICONSETTINGS.CancelBtn.Caption	Cancel	取消	
+madHcCtrl.exe.Forms.TFTRAYICONSETTINGS.DontShowRadio.Caption	don't show tray icon	不显示托盘图标	
+madHcCtrl.exe.Forms.TFTRYFORM.Caption	Try custom mode...	尝试自定义模式	
+madHcCtrl.exe.Forms.TFTRYFORM.MainLabel.Caption	The selected custom timings have been activated. The original mode will be restored in 30 seconds.	所选的自定义计时已被激活。原始模式将在30秒内恢复。	
+madHcCtrl.exe.Forms.TFTRYFORM.Label2.Caption	Do you want to save these custom timings?	是否要保存这些自定义计时？	
+madHcCtrl.exe.Forms.TFTRYFORM.NoBtn.Caption	&No	否(&N)	
+madHcCtrl.exe.Forms.TFTRYFORM.StopTimerBtn.Caption	&Stop Timer	停止计时器(&S)	
+madHcCtrl.exe.Forms.TFTRYFORM.YesBtn.Caption	&Yes	是(&Y)	
+madHcCtrl.exe.MAD.EXCEPT.text[0]	www.madshi.netñT	www.madshi.net馮	
+madLevelsTweaker.exe.Forms.TLEVELSTWEAKFORM.Caption	NVidia & Intel RGB Levels Tweaker	NVidia和Intel RGB 调试	
+madLevelsTweaker.exe.Forms.TLEVELSTWEAKFORM.Label1.Caption	GPU:	GPU：	
+madLevelsTweaker.exe.Forms.TLEVELSTWEAKFORM.Label2.Caption	Hardware ID:	硬件ID：	
+madLevelsTweaker.exe.Forms.TLEVELSTWEAKFORM.Label3.Caption	Registry Path:	注册表路径：	
+madLevelsTweaker.exe.Forms.TLEVELSTWEAKFORM.ChangeHintLabel.Caption	A reboot may be necessary for the changes to take effect.	可能需要重新启动才能使更改生效。	
+madLevelsTweaker.exe.Forms.TLEVELSTWEAKFORM.Label4.Caption	Please move this window to the target monitor.	请将此窗口移动到目标监视器。	
+madLevelsTweaker.exe.Forms.TLEVELSTWEAKFORM.Label5.Caption	Monitor:	监控：	
+madLevelsTweaker.exe.Forms.TLEVELSTWEAKFORM.LevelsCheck.Caption	Force PC levels (0-255)	强制PC级别（0-255）	
+madLevelsTweaker.exe.Forms.TLEVELSTWEAKFORM.Button1.Caption	Cancel	取消	
+madLevelsTweaker.exe.Forms.TLEVELSTWEAKFORM.ApplyBtn.Caption	Apply	应用	
+madLevelsTweaker.exe.Forms.TMADEXCEPT.SendAssis	SendAssistant	发送协助	
+madLevelsTweaker.exe.Forms.TMADEXCEPT.SaveAssis	SaveAssistant	储存协助	
+madLevelsTweaker.exe.Forms.TMADEXCEPT.PrintAssis	PrintAssistant	打印协助	
+madLevelsTweaker.exe.Forms.TMADEXCEPT.HttpAccount	madExcept upload user	除上传用户外	
+madLevelsTweaker.exe.Forms.TMADEXCEPT.Plugins	modules|processes|hardware	模块|进程|硬件	
+madLevelsTweaker.exe.Forms.TMADEXCEPT.F1Classes	EDBEditError	编辑错误	
+madLevelsTweaker.exe.Forms.TMADEXCEPT.ExceptMsg	An error occurred in madVR.	madVR发生错误。	
+madLevelsTweaker.exe.Forms.TMADEXCEPT.FrozenMsg	The process seems to be frozen.	这个过程似乎被冻结了。	
+madLevelsTweaker.exe.Forms.TMADEXCEPT.BitFaultMsg	The file "%modname%" seems to be corrupt!	文件 "%modname%" 似乎已损坏!	
+madLevelsTweaker.exe.Forms.TMADEXCEPT.SendBtnTxt	send bug report	发送错误报告	
+madLevelsTweaker.exe.Forms.TMADEXCEPT.SaveBtnTxt	save bug report	保存错误报告	
+madLevelsTweaker.exe.Forms.TMADEXCEPT.PrintBtnTxt	print bug report	打印错误报告	
+madLevelsTweaker.exe.Forms.TMADEXCEPT.ShowBtnTxt	show bug report	显示错误报告	
+madLevelsTweaker.exe.Forms.TMADEXCEPT.ContinueBtnTxt	continue application	等待	
+madLevelsTweaker.exe.Forms.TMADEXCEPT.RestartBtnTxt	restart application	重新启动应用程序	
+madLevelsTweaker.exe.Forms.TMADEXCEPT.CloseBtnTxt	close application	关闭应用程序	
+madLevelsTweaker.exe.Forms.TMADEXCEPT.OkBtnTxt	&OK	确定(&O)	
+madLevelsTweaker.exe.Forms.TMADEXCEPT.DetailsBtnTxt	&Details	删除(&D)	
+madLevelsTweaker.exe.Forms.TMADEXCEPT.PlWaitTitle	Information	信息	
+madLevelsTweaker.exe.Forms.TMADEXCEPT.PlWaitText	Please wait a moment...	请稍等...	
+madLevelsTweaker.exe.Forms.TMADEXCEPT.BugTrDescr	error details: \r\n%errorDetails%	错误详细信息:\r\n% 错误明细%	
+madLevelsTweaker.exe.Forms.TMADEXCEPT.MailSubj	madVR bug report	madVR错误报告	
+madLevelsTweaker.exe.Forms.TMADEXCEPT.MailBody	please find the bug report attached	请找到附带的错误报告	
+madLevelsTweaker.exe.Forms.TMADEXCEPT.SendBoxTitle	Sending bug report...	正在发送错误报告...	
+madLevelsTweaker.exe.Forms.TMADEXCEPT.PrepAttMsg	Preparing attachments...	准备附件...	
+madLevelsTweaker.exe.Forms.TMADEXCEPT.MxLookMsg	Searching for mail server...	正在搜索邮件服务器...	
+madLevelsTweaker.exe.Forms.TMADEXCEPT.ConnMsg	Connecting to server...	连接到服务器...	
+madLevelsTweaker.exe.Forms.TMADEXCEPT.SendMailMsg	Sending mail...	正在发送邮件...	
+madLevelsTweaker.exe.Forms.TMADEXCEPT.FieldMsg	Setting fields...	设置字段...	
+madLevelsTweaker.exe.Forms.TMADEXCEPT.SendAttMsg	Sending attachments...	正在发送附件...	
+madLevelsTweaker.exe.Forms.TMADEXCEPT.SendFinalMsg	Finalizing...	即将完成	
+madLevelsTweaker.exe.Forms.TMADEXCEPT.SendFailMsg	Sorry, sending the bug report didn't work.	抱歉，错误报告发送失败。	
+madLevelsTweaker.exe.Forms.TMECONTACTFORM.Message	Contact Information	联系信息	
+madLevelsTweaker.exe.Forms.TMECONTACTFORM.ContinueBtn.Caption	Continue	继续	
+madLevelsTweaker.exe.Forms.TMECONTACTFORM.SkipBtn.Caption	Skip	跳过	
+madLevelsTweaker.exe.Forms.TMECONTACTFORM.CancelBtn.Caption	Cancel	取消	
+madLevelsTweaker.exe.Forms.TMECONTACTFORM.Label1.Caption	your name:	用户名:	
+madLevelsTweaker.exe.Forms.TMECONTACTFORM.NameEdit.OutputName	contact name	联系人姓名	
+madLevelsTweaker.exe.Forms.TMECONTACTFORM.Label2.Caption	your email:	邮箱：	
+madLevelsTweaker.exe.Forms.TMECONTACTFORM.EmailEdit.OutputName	contact email	联系电子邮件	
+madLevelsTweaker.exe.Forms.TMECONTACTFORM.MemCheck.Caption	remember me	记住账号	
+madLevelsTweaker.exe.Forms.TMEDETAILSFORM.Message	Error Details	错误详细信息	
+madLevelsTweaker.exe.Forms.TMEDETAILSFORM.ContinueBtn.Caption	Continue	继续	
+madLevelsTweaker.exe.Forms.TMEDETAILSFORM.SkipBtn.Caption	Skip	跳过	
+madLevelsTweaker.exe.Forms.TMEDETAILSFORM.CancelBtn.Caption	Cancel	取消	
+madLevelsTweaker.exe.Forms.TMEDETAILSFORM.Label1.Caption	in which situation did the error occur?	错误是在哪一种情况下发生的？	
+madLevelsTweaker.exe.Forms.TMEDETAILSFORM.DetailsMemo.OutputName	error details	错误详细信息	
+madLevelsTweaker.exe.Forms.TMEDETAILSFORM.Label2.Caption	can you reproduce the problem? if so, how?	你能重现这个问题吗？如果是这样，怎么样？	
+madLevelsTweaker.exe.Forms.TMEDETAILSFORM.ReproMemo.OutputName	reproducible	重现	
+madLevelsTweaker.exe.Forms.TMESCRSHOTFORM.Message	Screenshot Configuration	屏幕截图配置	
+madLevelsTweaker.exe.Forms.TMESCRSHOTFORM.ContinueBtn.Caption	Continue	继续	
+madLevelsTweaker.exe.Forms.TMESCRSHOTFORM.SkipBtn.Caption	Skip	跳过	
+madLevelsTweaker.exe.Forms.TMESCRSHOTFORM.CancelBtn.Caption	Cancel	取消	
+madLevelsTweaker.exe.Forms.TMESCRSHOTFORM.AttachCheck.Caption	attach a screenshot to the bug report	在错误报告中附加屏幕截图	
+madLevelsTweaker.exe.Forms.TMESCRSHOTFORM.Label1.Caption	(click to edit image)	（点击编辑图片）	
+madTPG.exe.Forms.TFTPGMAINFORM.Caption	madVR Test Pattern Generator	madVR测试模式生成器	
+madTPG.exe.Forms.TFTPGMAINFORM.ToolbarPanel.TestPatternConfigPanel.Label2.Caption	Test Pattern Configuration:	测试模式配置：	
+madTPG.exe.Forms.TFTPGMAINFORM.ToolbarPanel.TestPatternConfigPanel.Label4.Caption	Image area:	图像区域：	
+madTPG.exe.Forms.TFTPGMAINFORM.ToolbarPanel.TestPatternConfigPanel.Label5.Caption	Background:	背景：	
+madTPG.exe.Forms.TFTPGMAINFORM.ToolbarPanel.TestPatternConfigPanel.DisableOsdButton.Caption	disable OSD	禁用OSD	
+madTPG.exe.Forms.TFTPGMAINFORM.ToolbarPanel.TestPatternConfigPanel.StayOnTopButton.Caption	stay on top	保持最上	
+madTPG.exe.Forms.TFTPGMAINFORM.ToolbarPanel.TestPatternConfigPanel.GoFullscreenButton.Caption	use fullscreen	全屏	
+madTPG.exe.Forms.TFTPGMAINFORM.ToolbarPanel.ExistingCalibrationPanel.Label1.Caption	Existing Calibration:	校准：	
+madTPG.exe.Forms.TFTPGMAINFORM.ToolbarPanel.ExistingCalibrationPanel.DisableRampsButton.Caption	disable VideoLUTs	禁用VideoLUT	
+madTPG.exe.Forms.TFTPGMAINFORM.ToolbarPanel.ExistingCalibrationPanel.Disable3dlutButton.Caption	disable 3dlut	禁用3dlut	
+madTPG.exe.Forms.TFTPGMAINFORM.BackgroundPopup.ConstantGrayMi.Caption	constant gray	保持灰色	
+madTPG.exe.Forms.TFTPGMAINFORM.BackgroundPopup.AplGammaMi.Caption	APL - gamma light	APL - 伽马灯	
+madTPG.exe.Forms.TFTPGMAINFORM.BackgroundPopup.AplLinearMi.Caption	APL - linear light	APL - 线性光	
+madTPG.exe.Forms.TMADEXCEPT.SendAssis	SendAssistant	发送协助	
+madTPG.exe.Forms.TMADEXCEPT.SaveAssis	SaveAssistant	储存协助	
+madTPG.exe.Forms.TMADEXCEPT.PrintAssis	PrintAssistant	打印协助	
+madTPG.exe.Forms.TMADEXCEPT.HttpAccount	madExcept upload user	除上传用户外	
+madTPG.exe.Forms.TMADEXCEPT.Plugins	modules|processes|hardware	模块|进程|硬件	
+madTPG.exe.Forms.TMADEXCEPT.F1Classes	EDBEditError	编辑错误	
+madTPG.exe.Forms.TMADEXCEPT.ExceptMsg	An error occurred in madVR.	madVR发生错误。	
+madTPG.exe.Forms.TMADEXCEPT.FrozenMsg	The process seems to be frozen.	这个过程似乎被冻结了。	
+madTPG.exe.Forms.TMADEXCEPT.BitFaultMsg	The file "%modname%" seems to be corrupt!	文件 "%modname%" 似乎已损坏!	
+madTPG.exe.Forms.TMADEXCEPT.SendBtnTxt	send bug report	发送错误报告	
+madTPG.exe.Forms.TMADEXCEPT.SaveBtnTxt	save bug report	保存错误报告	
+madTPG.exe.Forms.TMADEXCEPT.PrintBtnTxt	print bug report	打印错误报告	
+madTPG.exe.Forms.TMADEXCEPT.ShowBtnTxt	show bug report	显示错误报告	
+madTPG.exe.Forms.TMADEXCEPT.ContinueBtnTxt	continue application	等待	
+madTPG.exe.Forms.TMADEXCEPT.RestartBtnTxt	restart application	重新启动应用程序	
+madTPG.exe.Forms.TMADEXCEPT.CloseBtnTxt	close application	关闭应用程序	
+madTPG.exe.Forms.TMADEXCEPT.OkBtnTxt	&OK	确定(&O)	
+madTPG.exe.Forms.TMADEXCEPT.DetailsBtnTxt	&Details	删除(&D)	
+madTPG.exe.Forms.TMADEXCEPT.PlWaitTitle	Information	信息	
+madTPG.exe.Forms.TMADEXCEPT.PlWaitText	Please wait a moment...	请稍等...	
+madTPG.exe.Forms.TMADEXCEPT.MailSubj	madVR bug report	madVR错误报告	
+madTPG.exe.Forms.TMADEXCEPT.MailBody	please find the bug report attached	请找到附带的错误报告	
+madTPG.exe.Forms.TMADEXCEPT.SendBoxTitle	Sending bug report...	正在发送错误报告...	
+madTPG.exe.Forms.TMADEXCEPT.PrepAttMsg	Preparing attachments...	准备附件...	
+madTPG.exe.Forms.TMADEXCEPT.MxLookMsg	Searching for mail server...	正在搜索邮件服务器...	
+madTPG.exe.Forms.TMADEXCEPT.ConnMsg	Connecting to server...	连接到服务器...	
+madTPG.exe.Forms.TMADEXCEPT.SendMailMsg	Sending mail...	正在发送邮件	
+madTPG.exe.Forms.TMADEXCEPT.FieldMsg	Setting fields...	设置字段...	
+madTPG.exe.Forms.TMADEXCEPT.SendAttMsg	Sending attachments...	正在发送附件...	
+madTPG.exe.Forms.TMADEXCEPT.SendFinalMsg	Finalizing...	即将完成	
+madTPG.exe.Forms.TMADEXCEPT.SendFailMsg	Sorry, sending the bug report didn't work.	抱歉，错误报告发送失败。	
+madTPG.exe.Forms.TMECONTACTFORM.Message	Contact Information	联系信息	
+madTPG.exe.Forms.TMECONTACTFORM.ContinueBtn.Caption	Continue	继续	
+madTPG.exe.Forms.TMECONTACTFORM.SkipBtn.Caption	Skip	跳过	
+madTPG.exe.Forms.TMECONTACTFORM.CancelBtn.Caption	Cancel	取消	
+madTPG.exe.Forms.TMECONTACTFORM.Label1.Caption	your name:	用户名:	
+madTPG.exe.Forms.TMECONTACTFORM.NameEdit.OutputName	contact name	联系人姓名	
+madTPG.exe.Forms.TMECONTACTFORM.Label2.Caption	your email:	邮箱：	
+madTPG.exe.Forms.TMECONTACTFORM.EmailEdit.OutputName	contact email	联系电子邮件	
+madTPG.exe.Forms.TMECONTACTFORM.MemCheck.Caption	remember me	记住账号	
+madTPG.exe.Forms.TMEDETAILSFORM.Message	Error Details	错误详细信息	
+madTPG.exe.Forms.TMEDETAILSFORM.ContinueBtn.Caption	Continue	继续	
+madTPG.exe.Forms.TMEDETAILSFORM.SkipBtn.Caption	Skip	跳过	
+madTPG.exe.Forms.TMEDETAILSFORM.CancelBtn.Caption	Cancel	取消	
+madTPG.exe.Forms.TMEDETAILSFORM.Label1.Caption	in which situation did the error occur?	错误是在哪一种情况下发生的？	
+madTPG.exe.Forms.TMEDETAILSFORM.DetailsMemo.OutputName	error details	错误详细信息	
+madTPG.exe.Forms.TMEDETAILSFORM.Label2.Caption	can you reproduce the problem? if so, how?	你能重现这个问题吗？如果是这样，怎么样？	
+madTPG.exe.Forms.TMEDETAILSFORM.ReproMemo.OutputName	reproducible	重现	
+madTPG.exe.Forms.TMESCRSHOTFORM.Message	Screenshot Configuration	屏幕截图配置	
+madTPG.exe.Forms.TMESCRSHOTFORM.ContinueBtn.Caption	Continue	继续	
+madTPG.exe.Forms.TMESCRSHOTFORM.SkipBtn.Caption	Skip	跳过	
+madTPG.exe.Forms.TMESCRSHOTFORM.CancelBtn.Caption	Cancel	取消	
+madTPG.exe.Forms.TMESCRSHOTFORM.AttachCheck.Caption	attach a screenshot to the bug report	在错误报告中附加屏幕截图	
+madTPG.exe.Forms.TMESCRSHOTFORM.Label1.Caption	(click to edit image)	（点击编辑图片）	
+madTPG.exe.Versions.1.FileDescription	madVR Test Pattern Generator	madVR测试模式生成器	

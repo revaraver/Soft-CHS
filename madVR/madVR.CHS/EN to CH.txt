@@ -223,7 +223,7 @@ madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ZoomControlTab.MoveSubsCombo.Te
 madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ZoomControlTab.MoveSubsCombo.0	... to bottom of the screen/window	到屏幕/窗口的底部	
 madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ZoomControlTab.MoveSubsCombo.1	... into active video area	进入活动视频区域	
 madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.SmoothMotionTab.Caption	smooth motion	平滑	
-madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.SmoothMotionTab.Panel6.SmoothMotion1Radio.Caption	only if there would be motion judder without it...	会有抖动时选这个时	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.SmoothMotionTab.Panel6.SmoothMotion1Radio.Caption	only if there would be motion judder without it...	选这个会有抖动时
 madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.SmoothMotionTab.Panel6.SmoothMotion2Radio.Caption	... or if the display refresh rate is an exact multiple of the movie frame rate	显示器刷新率是视频帧率的倍数时	
 madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.SmoothMotionTab.Panel6.SmoothMotion3Radio.Caption	always	总是	
 madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.SmoothMotionTab.SmoothMotionCheck.Caption	enable smooth motion frame rate conversion	启用平滑运动帧速率转换	

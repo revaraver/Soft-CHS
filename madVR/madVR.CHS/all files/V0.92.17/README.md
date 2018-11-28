@@ -1,8 +1,0 @@
-﻿# revaraver\Soft-CHS\madVR\madVR.CHS\all files\V0.92.17
-文件名称：revaraver\Soft-CHS\madVR\madVR.CHS\all files\V0.92.17\readme.txt
-文件大小：3880 字节
-修改时间：2018年11月27日 04:39:57
-MD5     ：CD8084720EF74434C73C5E5774BFBC7A
-SHA1    ：84C7D1723A1568261431796BB950599F1A38E687
-CRC32   ：5AA1FA52
-

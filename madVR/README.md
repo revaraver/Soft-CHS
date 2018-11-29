@@ -16,7 +16,7 @@ by revar<br>
 近完全汉化，保留了部分术语，汉化率高于90%<br>
 
 如果仍遇到汉化文本错误或不合理的地方，欢迎大家进行反馈:<br>
-[点击此处进入翻译记忆文件](https://github.com/revaraver/Soft-CHS/blob/master/madVR/madVR.CHS/EN%20to%20CH.txt "点击此处进入翻译记忆文件")<br>，可以结合该文件进行勘误。本插件的汉化是基于在这份文件上的
+[点击此处进入翻译记忆文件](https://github.com/revaraver/Soft-CHS/blob/master/madVR/madVR.CHS/EN%20to%20CH.txt "点击此处进入翻译记忆文件")<br>可以结合该文件进行勘误。本插件的汉化是基于在这份文件上的
 <br>
 <br>
 

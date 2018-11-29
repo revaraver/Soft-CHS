@@ -14,10 +14,15 @@ by revar<br>
 该汉化补丁对应madVR目前最新版本V0.92.17<br>
 内有【原文件】，【硬汉化】，【软汉化】三个文件夹<br>
 近完全汉化，保留了部分术语，汉化率高于90%<br>
-如果仍遇到汉化文本错误或不合理的地方，欢迎大家进行反馈，[点我进入翻译记忆文件](https://github.com/revaraver/Soft-CHS/blob/master/madVR/madVR.CHS/EN%20to%20CH.txt "点我进入翻译记忆文件")，可以结合该文件进行勘误。本插件的汉化均是建立在这份文件上
+
+如果仍遇到汉化文本错误或不合理的地方，欢迎大家进行反馈:<br>
+[点击此处进入翻译记忆文件](https://github.com/revaraver/Soft-CHS/blob/master/madVR/madVR.CHS/EN%20to%20CH.txt "点击此处进入翻译记忆文件")<br>可以结合该文件进行勘误。本插件的汉化是基于在这份文件上的
 <br>
 <br>
-[直接点击此处进行下载madVR.CHS for V0.92.17](https://github.com/revaraver/Soft-CHS/raw/master/madVR/madVR.CHS/release/V0.92.17/madVR.CHS%20for%20V0.92.17.7z "madVR.CHS for V.92.17")<br>
+
+[直接点击此处进行下载madVR.CHS for V0.92.17](https://github.com/revaraver/Soft-CHS/raw/master/madVR/madVR.CHS/release/V0.92.17/madVR.CHS%20for%20V0.92.17.7z "madVR.CHS for V.92.17")
+
+<br>
 于2018年11月29日 06:55:11更新<br>
 <br>
 <br>
